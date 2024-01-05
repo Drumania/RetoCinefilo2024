@@ -1,5 +1,5 @@
 import Header from "./Header";
-import Month from "./Month";
+import Monththumb from "./Monththumb";
 import BkVideo from "./BkVideo";
 import Footer from "./Footer";
 
@@ -12,21 +12,24 @@ const Home = () => {
         <Header />
         <main>
           <ul className="movie-grid">
-            <Month name="Enero" legend="viajes en el tiempo" />
-            <Month name="Febrero" legend="ROMANCE ATIPICO" />
-            <Month name="Marzo" legend="GANADORA AL OSCAR MEJOR PELICULA" />
-            <Month name="Abril" legend="VISUALMENTE IMPACTANTE" />
-            <Month name="Mayo" legend="CLÁSICO PENDIENTE" />
-            <Month name="Junio" legend="DRAMA INVERNAL" />
-            <Month name="Julio" legend="SOBRE LA AMISTAD" />
-            <Month name="Agosto" legend="DE CULTO" />
-            <Month name="Septiembre" legend="COMING OF AGE" />
-            <Month name="Octubre" legend="TERROR PSICOLÓGICO" />
-            <Month
+            <Monththumb name="Enero" legend="viajes en el tiempo" />
+            <Monththumb name="Febrero" legend="ROMANCE ATIPICO" />
+            <Monththumb
+              name="Marzo"
+              legend="GANADORA AL OSCAR MEJOR PELICULA"
+            />
+            <Monththumb name="Abril" legend="VISUALMENTE IMPACTANTE" />
+            <Monththumb name="Mayo" legend="CLÁSICO PENDIENTE" />
+            <Monththumb name="Junio" legend="DRAMA INVERNAL" />
+            <Monththumb name="Julio" legend="SOBRE LA AMISTAD" />
+            <Monththumb name="Agosto" legend="DE CULTO" />
+            <Monththumb name="Septiembre" legend="COMING OF AGE" />
+            <Monththumb name="Octubre" legend="TERROR PSICOLÓGICO" />
+            <Monththumb
               name="Noviembre"
               legend="ANIMADA (NO DISNEY NI DREAMWORKS)"
             />
-            <Month name="Diciembre" legend="SOBRE LA FAMILIA" />
+            <Monththumb name="Diciembre" legend="SOBRE LA FAMILIA" />
           </ul>
         </main>
 

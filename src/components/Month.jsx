@@ -1,14 +1,16 @@
-// Month.jsx
+import { useParams, Link } from "react-router-dom";
 
-const Month = ({ name, legend }) => {
+const Month = () => {
+  // Utiliza el hook useParams para acceder a los parámetros de la URL
+  const { month } = useParams();
+
   return (
-    <li>
-      <a href={name}>
-        <h2>{name}</h2>
-        <div className="img-month">&nbsp;</div>
-        <span>{legend}</span>
-      </a>
-    </li>
+    <div>
+      <Link to="/">volver</Link>
+
+      <h1>Detalles del mes: {month}</h1>
+      {/* Agrega el contenido específico del mes aquí */}
+    </div>
   );
 };
 
