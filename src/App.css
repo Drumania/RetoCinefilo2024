@@ -8,6 +8,7 @@ https://www.cssmatic.com/box-shadow
 
 :root {
   --gap-number: 16px;
+  --big-gap-number: 50px;
   --first-color: #fdbb5b;
   --sec-color: #e35e3f;
   --tre-color: #fe9955;
@@ -16,7 +17,7 @@ https://www.cssmatic.com/box-shadow
   --bl-color: #212121;
   --wh-color: #f3eec8;
   --line-color: #dfe0d8;
-  --font-size: 20px;
+  --font-size: 16px;
   --font-family: "Varela Round", sans-serif;
   --border-radius: 24px;
   --box-shadow: 10px 10px 40px 1px rgba(0, 0, 0, 0.21);
@@ -343,6 +344,7 @@ footer {
 footer img {
   width: 100px;
   vertical-align: -3px;
+  margin-left: 5px;
 }
 
 @media (hover: hover) {
@@ -454,22 +456,238 @@ footer img {
     url("./assets/img/12.gif") center center / cover;
 }
 
-/* transiciones */
-/* AnimatedPage.css */
-.page-enter {
-  opacity: 0;
+/* interna */
+
+.content-interna {
+  background-color: var(--sec-color);
+  color: #fff;
 }
 
-.page-enter-active {
-  opacity: 1;
-  transition: opacity 300ms;
+.wrap-content {
+  width: 90%;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
-.page-exit {
-  opacity: 1;
+.wrap-content p {
+  width: 70%;
+  padding-bottom: var(--big-gap-number);
 }
 
-.page-exit-active {
-  opacity: 0;
-  transition: opacity 300ms;
+.content-interna header {
+  position: relative;
+  height: 100vh;
+}
+
+.content-interna header.enero {
+  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
+    center / cover;
+}
+
+.content-interna header.febrero {
+  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
+    center / cover;
+}
+
+.content-interna header.marzo {
+  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
+    center / cover;
+}
+
+.content-interna header.abril {
+  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
+    center / cover;
+}
+
+.content-interna header.mayo {
+  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
+    center / cover;
+}
+
+.content-interna header.junio {
+  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
+    center / cover;
+}
+
+.content-interna header.julio {
+  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
+    center / cover;
+}
+
+.content-interna header.agosto {
+  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
+    center / cover;
+}
+
+.content-interna header.septiembre {
+  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
+    center / cover;
+}
+
+.content-interna header.octubre {
+  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
+    center / cover;
+}
+
+.content-interna header.noviembre {
+  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
+    center / cover;
+}
+
+.content-interna header.diciembre {
+  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
+    center / cover;
+}
+
+.nav-month {
+  background-color: var(--bl-color);
+  position: relative;
+  top: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.nav-month a {
+  display: block;
+  width: calc(100% / 14);
+}
+
+.nav-month a.active {
+  background-color: var(--four-color);
+}
+
+.nav-month a:nth-child(4).active,
+.nav-month a:nth-child(6).active,
+.nav-month a:nth-child(12).active {
+  background-color: var(--first-color);
+}
+
+.nav-month a img {
+  padding-top: 10px;
+  width: 50px;
+}
+
+.content-interna section {
+  padding: 50px 0;
+}
+
+.content-interna h2 {
+  font-size: 2.5rem;
+  color: var(--wh-color);
+}
+
+.content-interna h3 {
+  font-size: 1.5rem;
+  font-weight: lighter;
+  color: var(--wh-color);
+  line-height: 100%;
+  margin: var(--big-gap-number) 0;
+}
+
+.content-interna h4 {
+  font-size: 1.4rem;
+  font-weight: lighter;
+  color: var(--wh-color);
+  line-height: 100%;
+  margin: 10px 0;
+}
+
+.content-interna footer {
+  color: var(--txt-color);
+}
+
+.wh-bk {
+  background-color: #fff;
+}
+
+.bl-bk {
+  background-color: #000;
+}
+
+.ci-title {
+  margin-top: -20vh;
+  position: relative;
+  background: rgb(227, 94, 63);
+  background: linear-gradient(
+    1deg,
+    rgba(227, 94, 63, 1) 35%,
+    rgba(227, 94, 63, 0) 82%
+  );
+}
+
+.ci-title p {
+  width: 70%;
+}
+
+.wrap-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: var(--big-gap-number);
+}
+
+.tips {
+  font-size: 1rem;
+  font-weight: lighter;
+  color: #fff;
+  padding: 20px 0 100px !important;
+}
+
+.tips .wrap-flex img {
+  width: 50px;
+}
+
+.tips hr {
+  background-color: var(--four-color);
+  border-color: var(--four-color);
+  margin: var(--big-gap-number) 0;
+}
+
+.plataformas,
+.plataformas h3,
+.plataformas h4 {
+  color: var(--bl-color);
+}
+
+.plataformas img {
+  width: 200px;
+  height: auto;
+}
+
+.movies-list li {
+  margin-bottom: 16px; /* Espacio entre elementos de la lista */
+}
+
+.movies-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 columnas de igual tamaño */
+  gap: 16px; /* Espacio entre las columnas y filas */
+  list-style: none;
+  padding: 0;
+  margin: 0 0 var(--big-gap-number);
+}
+
+.movies-container li {
+  margin-bottom: 16px; /* Espacio entre elementos de la lista */
+}
+
+.non-last-span {
+  color: var(--four-color);
+  display: block;
+}
+
+.last-span {
+  text-align: center;
+  display: block;
+  color: var(--four-color);
+  font-size: 1.6rem;
+}
+@media screen and (orientation: portrait) {
+  .wrap-flex {
+    flex-direction: column;
+  }
 }

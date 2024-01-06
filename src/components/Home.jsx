@@ -12,24 +12,24 @@ const Home = () => {
         <Header />
         <main>
           <ul className="movie-grid">
-            <Monththumb name="Enero" legend="viajes en el tiempo" />
-            <Monththumb name="Febrero" legend="ROMANCE ATIPICO" />
+            <Monththumb name="enero" legend="viajes en el tiempo" />
+            <Monththumb name="febrero" legend="ROMANCE ATIPICO" />
             <Monththumb
-              name="Marzo"
+              name="marzo"
               legend="GANADORA AL OSCAR MEJOR PELICULA"
             />
-            <Monththumb name="Abril" legend="VISUALMENTE IMPACTANTE" />
-            <Monththumb name="Mayo" legend="CLÁSICO PENDIENTE" />
-            <Monththumb name="Junio" legend="DRAMA INVERNAL" />
-            <Monththumb name="Julio" legend="SOBRE LA AMISTAD" />
-            <Monththumb name="Agosto" legend="DE CULTO" />
-            <Monththumb name="Septiembre" legend="COMING OF AGE" />
-            <Monththumb name="Octubre" legend="TERROR PSICOLÓGICO" />
+            <Monththumb name="abril" legend="VISUALMENTE IMPACTANTE" />
+            <Monththumb name="mayo" legend="CLÁSICO PENDIENTE" />
+            <Monththumb name="junio" legend="DRAMA INVERNAL" />
+            <Monththumb name="julio" legend="SOBRE LA AMISTAD" />
+            <Monththumb name="agosto" legend="DE CULTO" />
+            <Monththumb name="septiembre" legend="COMING OF AGE" />
+            <Monththumb name="octubre" legend="TERROR PSICOLÓGICO" />
             <Monththumb
-              name="Noviembre"
+              name="noviembre"
               legend="ANIMADA (NO DISNEY NI DREAMWORKS)"
             />
-            <Monththumb name="Diciembre" legend="SOBRE LA FAMILIA" />
+            <Monththumb name="diciembre" legend="SOBRE LA FAMILIA" />
           </ul>
         </main>
 
