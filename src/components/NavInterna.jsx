@@ -1,4 +1,5 @@
 import React from "react";
+import { useParams, Link } from "react-router-dom";
 
 import icoMenu1 from "../assets/img/1.png";
 import icoMenu2 from "../assets/img/2.png";
@@ -16,54 +17,97 @@ import icoMenu12 from "../assets/img/12.png";
 const NavInterna = ({ month }) => {
   return (
     <header className={month}>
+      <Link to="/" className="header-interna">
+        Reto Cinéfilo 2024
+      </Link>
+
       <div className="wrap-content">
         <nav className="nav-month">
-          <a href="/enero" className={month === "enero" ? "active" : ""}>
-            <img src={icoMenu1} alt="enero" title="enero" />
+          <a
+            href="/enero"
+            className={month === "enero" ? "active" : ""}
+            title="Enero"
+          >
+            &nbsp;
           </a>
-          <a href="/febrero" className={month === "febrero" ? "active" : ""}>
-            <img src={icoMenu2} alt="Febrero" title="Febrero" />
+          <a
+            href="/febrero"
+            className={month === "febrero" ? "active" : ""}
+            title="Febrero"
+          >
+            &nbsp;
           </a>
-          <a href="/marzo" className={month === "marzo" ? "active" : ""}>
-            <img src={icoMenu3} alt="Marzo" title="Marzo" />
+          <a
+            href="/marzo"
+            className={month === "marzo" ? "active" : ""}
+            title="Marzo"
+          >
+            &nbsp;
           </a>
-          <a href="/abril" className={month === "abril" ? "active" : ""}>
-            <img src={icoMenu4} alt="Abril" title="Abril" />
+          <a
+            href="/abril"
+            className={month === "abril" ? "active" : ""}
+            title="Abril"
+          >
+            &nbsp;
           </a>
 
-          <a href="/mayo" className={month === "mayo" ? "active" : ""}>
-            <img src={icoMenu5} alt="Mayo" title="Mayo" />
+          <a
+            href="/mayo"
+            className={month === "mayo" ? "active" : ""}
+            title="Mayo"
+          >
+            &nbsp;
           </a>
-          <a href="/junio" className={month === "junio" ? "active" : ""}>
-            <img src={icoMenu6} alt="Junio" title="Junio" />
+          <a
+            href="/junio"
+            className={month === "junio" ? "active" : ""}
+            title="Junio"
+          >
+            &nbsp;
           </a>
-          <a href="/julio" className={month === "julio" ? "active" : ""}>
-            <img src={icoMenu7} alt="Julio" title="Julio" />
+          <a
+            href="/julio"
+            className={month === "julio" ? "active" : ""}
+            title="Julio"
+          >
+            &nbsp;
           </a>
-          <a href="/agosto" className={month === "agosto" ? "active" : ""}>
-            <img src={icoMenu8} alt="Agosto" title="Agosto" />
+          <a
+            href="/agosto"
+            className={month === "agosto" ? "active" : ""}
+            title="Agosto"
+          >
+            &nbsp;
           </a>
 
           <a
             href="/septiembre"
             className={month === "septiembre" ? "active" : ""}
+            title="Septiembre"
           >
-            <img src={icoMenu9} alt="Septiembre" title="Septiembre" />
+            &nbsp;
           </a>
-          <a href="/octubre" className={month === "octubre" ? "active" : ""}>
-            <img src={icoMenu10} alt="Octubre" title="Octubre" />
+          <a
+            href="/octubre"
+            className={month === "octubre" ? "active" : ""}
+            title="Octubre"
+          >
+            &nbsp;
           </a>
           <a
             href="/noviembre"
             className={month === "noviembre" ? "active" : ""}
+            title="Noviembre"
           >
-            <img src={icoMenu11} alt="Noviembre" title="Noviembre" />
+            &nbsp;
           </a>
           <a
             href="/diciembre"
             className={month === "diciembre" ? "active" : ""}
+            title="Diciembre"
           >
-            <img src={icoMenu12} alt="Diciembre" title="Diciembre" />
+            &nbsp;
           </a>
         </nav>
       </div>

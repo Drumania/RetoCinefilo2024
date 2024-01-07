@@ -13,10 +13,10 @@ const Home = () => {
         <main>
           <ul className="movie-grid">
             <Monththumb name="enero" legend="viajes en el tiempo" />
-            <Monththumb name="febrero" legend="ROMANCE ATIPICO" />
+            <Monththumb name="febrero" legend="ROMANCE ATÍPICO" />
             <Monththumb
               name="marzo"
-              legend="GANADORA AL OSCAR MEJOR PELICULA"
+              legend="GANADORA AL OSCAR MEJOR PELÍCULA"
             />
             <Monththumb name="abril" legend="VISUALMENTE IMPACTANTE" />
             <Monththumb name="mayo" legend="CLÁSICO PENDIENTE" />

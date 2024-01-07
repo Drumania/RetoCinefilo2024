@@ -1,48 +1,57 @@
 {
-  "marzo": {
-    "title": "Coming of Age",
-    "url_hero": "Coming of Age",
-    "description": "Son como ese repaso por la adolescencia que todos necesitamos...",
+  "enero": {
+    "title": "Viajes en el tiempo",
+    "description": "Son como ese repaso por la adolescencia que todos necesitamos. O sea, te tiran de lleno al quilombo de los primeros amores, las amistades que marcan época y la sensación de no tener ni idea de qué estás haciendo, pero con onda. Imaginate: es como el tutorial para pasar de ser un pibe medio perdido a codearte con el mundo adulto. Entonces, si alguna vez te preguntaste qué onda cuando los protagonistas de las películas dejan de ser unos giles y empiezan a bancársela en serio, prepárate para un viaje lleno de momentos épicos y autodescubrimiento.",
     "movies": [
       {
-        "title": "The Breakfast Club",
+        "title_es": "The Breakfast Club 1 ",
+        "title_en": "(The Breakfast Club)",
         "director": "John Hughes",
         "description": "Dirigida por John Hughes, sigue a un grupo de estudiantes de secundaria que se encuentran durante un castigo y descubren que tienen más en común de lo que pensaban."
       },
       {
-        "title": "Casi famosos",
+        "title_es": "The Breakfast Club 2 ",
+        "title_en": "(The Breakfast Club)",
         "director": "Cameron Crowe",
         "description": "Un adolescente que viaja con una banda de rock en los años 70 experimenta el mundo del rock and roll y la vida adulta."
       },
       {
-        "title": "Persépolis",
+        "title_es": "The Breakfast Club 3",
+        "title_en": "(The Breakfast Club)",
         "director": "Marjane Satrapi",
         "description": "La historia de una niña iraní que crece durante la Revolución Islámica. Basada en la novela gráfica autobiográfica de Marjane Satrapi."
       },
       {
-        "title": "La noche de las nerds",
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)",
         "director": "Olivia Wilde",
         "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
       }
     ],
     "tips": [
       {
-        "icon": "icono_musica",
+        "icon": "./public/icono_musica.svg",
         "title": "Escuchá",
         "description": "No subestimes la banda sonora. A veces es mejor que la historia misma."
       },
       {
-        "icon": "icono_pensando",
+        "icon": "./public/icono_pensando.svg",
         "title": "Pensá",
         "description": "Después de verla, date un tiempo para digerirla. Estas pelis suelen dejar algo para pensar."
       },
       {
-        "icon": "icono_investigando",
+        "icon": "./public/icono_investigando.svg",
         "title": "Investigá",
         "description": "Si te gusta una, rastreá otras del mismo director o con la misma gente. Puede ser un viaje."
       },
       {
-        "icon": "icono_llorando",
+        "icon": "./public/icono_llorando.svg",
         "title": "Llorate todo",
         "description": "Algunas te parten el corazón. No pasa nada si tirás un par de lágrimas."
       }
@@ -56,6 +65,1870 @@
         "title": "En la literatura",
         "description": "Muchas obras de la literatura clásica también encajan en el género. 'To Kill a Mockingbird' y 'Catcher in the Rye' son ejemplos destacados."
       }
-    ]
+    ],
+    "netflix": [
+      {
+        "title_es": "Las ventajas de ser invisible",
+        "title_en": "(The Perks of Being a Wallflower)"
+      },
+      {
+        "title_es": "Cuenta conmigo",
+        "title_en": "(Stand by Me)"
+      },
+      {
+        "title_es": "Mi primer beso",
+        "title_en": "(My first Kiss)"
+      }
+    ],
+    "hbo": [
+      {
+        "title_es": "Se dice de mí",
+        "title_en": "(Easy A)"
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)"
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)"
+      }
+    ],
+    "prime": [
+      {
+        "title_es": "Lady Bird",
+        "title_en": "(Lady Bird)"
+      },
+      {
+        "title_es": "Juno",
+        "title_en": "(Juno)"
+      },
+      {
+        "title_es": "Sí, Dios mío, sí",
+        "title_en": "(Yes, God, yes)"
+      }
+    ],
+    "star": [
+      {
+        "title_es": "Yo, él y Raquel",
+        "title_en": "Me & Earl & the Dying Girl)"
+      },
+      {
+        "title_es": "Tres son multitud",
+        "title_en": "(Rushmore)"
+      },
+      {
+        "title_es": "La Sociedad de los Poetas Muertos",
+        "title_en": "(Dead Poets Society)"
+      }
+    ],
+    "smuggling": [
+      {
+        "title_es": "El club de los cinco",
+        "title_en": "(The Breakfast Club)"
+      },
+      {
+        "title_es": "Persépolis",
+        "title_en": "(Persepolis)"
+      },
+      {
+        "title_es": "Casi famosos",
+        "title_en": "(Almost Famous)"
+      },
+      {
+        "title_es": "Sirenas",
+        "title_en": "(Mermaids)"
+      },
+      {
+        "title_es": "La noche de las nerds",
+        "title_en": "(Booksmart)"
+      },
+      {
+        "title_es": "Momentos De Una Vida",
+        "title_en": "(Boyhood)"
+      },
+      {
+        "title_es": "Un reino bajo la luna ",
+        "title_en": "(Moonrise Kingdom)"
+      },
+      {
+        "title_es": "Rebeldes y confundidos",
+        "title_en": "(Dazed And Confused)"
+      }
+    ],
+    "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
+    "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
+    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+  },
+  "febrero": {
+    "title": "Romance atípico",
+    "description": "Son como ese repaso por la adolescencia que todos necesitamos. O sea, te tiran de lleno al quilombo de los primeros amores, las amistades que marcan época y la sensación de no tener ni idea de qué estás haciendo, pero con onda. Imaginate: es como el tutorial para pasar de ser un pibe medio perdido a codearte con el mundo adulto. Entonces, si alguna vez te preguntaste qué onda cuando los protagonistas de las películas dejan de ser unos giles y empiezan a bancársela en serio, prepárate para un viaje lleno de momentos épicos y autodescubrimiento.",
+    "movies": [
+      {
+        "title_es": "The Breakfast Club 1 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "John Hughes",
+        "description": "Dirigida por John Hughes, sigue a un grupo de estudiantes de secundaria que se encuentran durante un castigo y descubren que tienen más en común de lo que pensaban."
+      },
+      {
+        "title_es": "The Breakfast Club 2 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "Cameron Crowe",
+        "description": "Un adolescente que viaja con una banda de rock en los años 70 experimenta el mundo del rock and roll y la vida adulta."
+      },
+      {
+        "title_es": "The Breakfast Club 3",
+        "title_en": "(The Breakfast Club)",
+        "director": "Marjane Satrapi",
+        "description": "La historia de una niña iraní que crece durante la Revolución Islámica. Basada en la novela gráfica autobiográfica de Marjane Satrapi."
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "./public/icono_musica.svg",
+        "title": "Escuchá",
+        "description": "No subestimes la banda sonora. A veces es mejor que la historia misma."
+      },
+      {
+        "icon": "./public/icono_pensando.svg",
+        "title": "Pensá",
+        "description": "Después de verla, date un tiempo para digerirla. Estas pelis suelen dejar algo para pensar."
+      },
+      {
+        "icon": "./public/icono_investigando.svg",
+        "title": "Investigá",
+        "description": "Si te gusta una, rastreá otras del mismo director o con la misma gente. Puede ser un viaje."
+      },
+      {
+        "icon": "./public/icono_llorando.svg",
+        "title": "Llorate todo",
+        "description": "Algunas te parten el corazón. No pasa nada si tirás un par de lágrimas."
+      }
+    ],
+    "outsideCinema": [
+      {
+        "title": "En el Animé",
+        "description": "El género 'coming of age' es muy popular en el anime japonés. Obras como 'A Silent Voice', 'Kiki's Delivery Service' y 'Your Name' exploran temas de crecimiento personal y descubrimiento."
+      },
+      {
+        "title": "En la literatura",
+        "description": "Muchas obras de la literatura clásica también encajan en el género. 'To Kill a Mockingbird' y 'Catcher in the Rye' son ejemplos destacados."
+      }
+    ],
+    "netflix": [
+      {
+        "title_es": "Las ventajas de ser invisible",
+        "title_en": "(The Perks of Being a Wallflower)"
+      },
+      {
+        "title_es": "Cuenta conmigo",
+        "title_en": "(Stand by Me)"
+      },
+      {
+        "title_es": "Mi primer beso",
+        "title_en": "(My first Kiss)"
+      }
+    ],
+    "hbo": [
+      {
+        "title_es": "Se dice de mí",
+        "title_en": "(Easy A)"
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)"
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)"
+      }
+    ],
+    "prime": [
+      {
+        "title_es": "Lady Bird",
+        "title_en": "(Lady Bird)"
+      },
+      {
+        "title_es": "Juno",
+        "title_en": "(Juno)"
+      },
+      {
+        "title_es": "Sí, Dios mío, sí",
+        "title_en": "(Yes, God, yes)"
+      }
+    ],
+    "star": [
+      {
+        "title_es": "Yo, él y Raquel",
+        "title_en": "Me & Earl & the Dying Girl)"
+      },
+      {
+        "title_es": "Tres son multitud",
+        "title_en": "(Rushmore)"
+      },
+      {
+        "title_es": "La Sociedad de los Poetas Muertos",
+        "title_en": "(Dead Poets Society)"
+      }
+    ],
+    "smuggling": [
+      {
+        "title_es": "El club de los cinco",
+        "title_en": "(The Breakfast Club)"
+      },
+      {
+        "title_es": "Persépolis",
+        "title_en": "(Persepolis)"
+      },
+      {
+        "title_es": "Casi famosos",
+        "title_en": "(Almost Famous)"
+      },
+      {
+        "title_es": "Sirenas",
+        "title_en": "(Mermaids)"
+      },
+      {
+        "title_es": "La noche de las nerds",
+        "title_en": "(Booksmart)"
+      },
+      {
+        "title_es": "Momentos De Una Vida",
+        "title_en": "(Boyhood)"
+      },
+      {
+        "title_es": "Un reino bajo la luna ",
+        "title_en": "(Moonrise Kingdom)"
+      },
+      {
+        "title_es": "Rebeldes y confundidos",
+        "title_en": "(Dazed And Confused)"
+      }
+    ],
+    "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
+    "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
+    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+  },
+  "marzo": {
+    "title": "Ganadora al oscar mejor película",
+    "description": "Son como ese repaso por la adolescencia que todos necesitamos. O sea, te tiran de lleno al quilombo de los primeros amores, las amistades que marcan época y la sensación de no tener ni idea de qué estás haciendo, pero con onda. Imaginate: es como el tutorial para pasar de ser un pibe medio perdido a codearte con el mundo adulto. Entonces, si alguna vez te preguntaste qué onda cuando los protagonistas de las películas dejan de ser unos giles y empiezan a bancársela en serio, prepárate para un viaje lleno de momentos épicos y autodescubrimiento.",
+    "movies": [
+      {
+        "title_es": "The Breakfast Club 1 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "John Hughes",
+        "description": "Dirigida por John Hughes, sigue a un grupo de estudiantes de secundaria que se encuentran durante un castigo y descubren que tienen más en común de lo que pensaban."
+      },
+      {
+        "title_es": "The Breakfast Club 2 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "Cameron Crowe",
+        "description": "Un adolescente que viaja con una banda de rock en los años 70 experimenta el mundo del rock and roll y la vida adulta."
+      },
+      {
+        "title_es": "The Breakfast Club 3",
+        "title_en": "(The Breakfast Club)",
+        "director": "Marjane Satrapi",
+        "description": "La historia de una niña iraní que crece durante la Revolución Islámica. Basada en la novela gráfica autobiográfica de Marjane Satrapi."
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "./public/icono_musica.svg",
+        "title": "Escuchá",
+        "description": "No subestimes la banda sonora. A veces es mejor que la historia misma."
+      },
+      {
+        "icon": "./public/icono_pensando.svg",
+        "title": "Pensá",
+        "description": "Después de verla, date un tiempo para digerirla. Estas pelis suelen dejar algo para pensar."
+      },
+      {
+        "icon": "./public/icono_investigando.svg",
+        "title": "Investigá",
+        "description": "Si te gusta una, rastreá otras del mismo director o con la misma gente. Puede ser un viaje."
+      },
+      {
+        "icon": "./public/icono_llorando.svg",
+        "title": "Llorate todo",
+        "description": "Algunas te parten el corazón. No pasa nada si tirás un par de lágrimas."
+      }
+    ],
+    "outsideCinema": [
+      {
+        "title": "En el Animé",
+        "description": "El género 'coming of age' es muy popular en el anime japonés. Obras como 'A Silent Voice', 'Kiki's Delivery Service' y 'Your Name' exploran temas de crecimiento personal y descubrimiento."
+      },
+      {
+        "title": "En la literatura",
+        "description": "Muchas obras de la literatura clásica también encajan en el género. 'To Kill a Mockingbird' y 'Catcher in the Rye' son ejemplos destacados."
+      }
+    ],
+    "netflix": [
+      {
+        "title_es": "Las ventajas de ser invisible",
+        "title_en": "(The Perks of Being a Wallflower)"
+      },
+      {
+        "title_es": "Cuenta conmigo",
+        "title_en": "(Stand by Me)"
+      },
+      {
+        "title_es": "Mi primer beso",
+        "title_en": "(My first Kiss)"
+      }
+    ],
+    "hbo": [
+      {
+        "title_es": "Se dice de mí",
+        "title_en": "(Easy A)"
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)"
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)"
+      }
+    ],
+    "prime": [
+      {
+        "title_es": "Lady Bird",
+        "title_en": "(Lady Bird)"
+      },
+      {
+        "title_es": "Juno",
+        "title_en": "(Juno)"
+      },
+      {
+        "title_es": "Sí, Dios mío, sí",
+        "title_en": "(Yes, God, yes)"
+      }
+    ],
+    "star": [
+      {
+        "title_es": "Yo, él y Raquel",
+        "title_en": "Me & Earl & the Dying Girl)"
+      },
+      {
+        "title_es": "Tres son multitud",
+        "title_en": "(Rushmore)"
+      },
+      {
+        "title_es": "La Sociedad de los Poetas Muertos",
+        "title_en": "(Dead Poets Society)"
+      }
+    ],
+    "smuggling": [
+      {
+        "title_es": "El club de los cinco",
+        "title_en": "(The Breakfast Club)"
+      },
+      {
+        "title_es": "Persépolis",
+        "title_en": "(Persepolis)"
+      },
+      {
+        "title_es": "Casi famosos",
+        "title_en": "(Almost Famous)"
+      },
+      {
+        "title_es": "Sirenas",
+        "title_en": "(Mermaids)"
+      },
+      {
+        "title_es": "La noche de las nerds",
+        "title_en": "(Booksmart)"
+      },
+      {
+        "title_es": "Momentos De Una Vida",
+        "title_en": "(Boyhood)"
+      },
+      {
+        "title_es": "Un reino bajo la luna ",
+        "title_en": "(Moonrise Kingdom)"
+      },
+      {
+        "title_es": "Rebeldes y confundidos",
+        "title_en": "(Dazed And Confused)"
+      }
+    ],
+    "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
+    "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
+    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+  },
+  "abril": {
+    "title": "Visualmente Impactante",
+    "description": "Son como ese repaso por la adolescencia que todos necesitamos. O sea, te tiran de lleno al quilombo de los primeros amores, las amistades que marcan época y la sensación de no tener ni idea de qué estás haciendo, pero con onda. Imaginate: es como el tutorial para pasar de ser un pibe medio perdido a codearte con el mundo adulto. Entonces, si alguna vez te preguntaste qué onda cuando los protagonistas de las películas dejan de ser unos giles y empiezan a bancársela en serio, prepárate para un viaje lleno de momentos épicos y autodescubrimiento.",
+    "movies": [
+      {
+        "title_es": "The Breakfast Club 1 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "John Hughes",
+        "description": "Dirigida por John Hughes, sigue a un grupo de estudiantes de secundaria que se encuentran durante un castigo y descubren que tienen más en común de lo que pensaban."
+      },
+      {
+        "title_es": "The Breakfast Club 2 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "Cameron Crowe",
+        "description": "Un adolescente que viaja con una banda de rock en los años 70 experimenta el mundo del rock and roll y la vida adulta."
+      },
+      {
+        "title_es": "The Breakfast Club 3",
+        "title_en": "(The Breakfast Club)",
+        "director": "Marjane Satrapi",
+        "description": "La historia de una niña iraní que crece durante la Revolución Islámica. Basada en la novela gráfica autobiográfica de Marjane Satrapi."
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "./public/icono_musica.svg",
+        "title": "Escuchá",
+        "description": "No subestimes la banda sonora. A veces es mejor que la historia misma."
+      },
+      {
+        "icon": "./public/icono_pensando.svg",
+        "title": "Pensá",
+        "description": "Después de verla, date un tiempo para digerirla. Estas pelis suelen dejar algo para pensar."
+      },
+      {
+        "icon": "./public/icono_investigando.svg",
+        "title": "Investigá",
+        "description": "Si te gusta una, rastreá otras del mismo director o con la misma gente. Puede ser un viaje."
+      },
+      {
+        "icon": "./public/icono_llorando.svg",
+        "title": "Llorate todo",
+        "description": "Algunas te parten el corazón. No pasa nada si tirás un par de lágrimas."
+      }
+    ],
+    "outsideCinema": [
+      {
+        "title": "En el Animé",
+        "description": "El género 'coming of age' es muy popular en el anime japonés. Obras como 'A Silent Voice', 'Kiki's Delivery Service' y 'Your Name' exploran temas de crecimiento personal y descubrimiento."
+      },
+      {
+        "title": "En la literatura",
+        "description": "Muchas obras de la literatura clásica también encajan en el género. 'To Kill a Mockingbird' y 'Catcher in the Rye' son ejemplos destacados."
+      }
+    ],
+    "netflix": [
+      {
+        "title_es": "Las ventajas de ser invisible",
+        "title_en": "(The Perks of Being a Wallflower)"
+      },
+      {
+        "title_es": "Cuenta conmigo",
+        "title_en": "(Stand by Me)"
+      },
+      {
+        "title_es": "Mi primer beso",
+        "title_en": "(My first Kiss)"
+      }
+    ],
+    "hbo": [
+      {
+        "title_es": "Se dice de mí",
+        "title_en": "(Easy A)"
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)"
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)"
+      }
+    ],
+    "prime": [
+      {
+        "title_es": "Lady Bird",
+        "title_en": "(Lady Bird)"
+      },
+      {
+        "title_es": "Juno",
+        "title_en": "(Juno)"
+      },
+      {
+        "title_es": "Sí, Dios mío, sí",
+        "title_en": "(Yes, God, yes)"
+      }
+    ],
+    "star": [
+      {
+        "title_es": "Yo, él y Raquel",
+        "title_en": "Me & Earl & the Dying Girl)"
+      },
+      {
+        "title_es": "Tres son multitud",
+        "title_en": "(Rushmore)"
+      },
+      {
+        "title_es": "La Sociedad de los Poetas Muertos",
+        "title_en": "(Dead Poets Society)"
+      }
+    ],
+    "smuggling": [
+      {
+        "title_es": "El club de los cinco",
+        "title_en": "(The Breakfast Club)"
+      },
+      {
+        "title_es": "Persépolis",
+        "title_en": "(Persepolis)"
+      },
+      {
+        "title_es": "Casi famosos",
+        "title_en": "(Almost Famous)"
+      },
+      {
+        "title_es": "Sirenas",
+        "title_en": "(Mermaids)"
+      },
+      {
+        "title_es": "La noche de las nerds",
+        "title_en": "(Booksmart)"
+      },
+      {
+        "title_es": "Momentos De Una Vida",
+        "title_en": "(Boyhood)"
+      },
+      {
+        "title_es": "Un reino bajo la luna ",
+        "title_en": "(Moonrise Kingdom)"
+      },
+      {
+        "title_es": "Rebeldes y confundidos",
+        "title_en": "(Dazed And Confused)"
+      }
+    ],
+    "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
+    "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
+    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+  },
+  "mayo": {
+    "title": "Clásico Pendiente",
+    "description": "Son como ese repaso por la adolescencia que todos necesitamos. O sea, te tiran de lleno al quilombo de los primeros amores, las amistades que marcan época y la sensación de no tener ni idea de qué estás haciendo, pero con onda. Imaginate: es como el tutorial para pasar de ser un pibe medio perdido a codearte con el mundo adulto. Entonces, si alguna vez te preguntaste qué onda cuando los protagonistas de las películas dejan de ser unos giles y empiezan a bancársela en serio, prepárate para un viaje lleno de momentos épicos y autodescubrimiento.",
+    "movies": [
+      {
+        "title_es": "The Breakfast Club 1 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "John Hughes",
+        "description": "Dirigida por John Hughes, sigue a un grupo de estudiantes de secundaria que se encuentran durante un castigo y descubren que tienen más en común de lo que pensaban."
+      },
+      {
+        "title_es": "The Breakfast Club 2 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "Cameron Crowe",
+        "description": "Un adolescente que viaja con una banda de rock en los años 70 experimenta el mundo del rock and roll y la vida adulta."
+      },
+      {
+        "title_es": "The Breakfast Club 3",
+        "title_en": "(The Breakfast Club)",
+        "director": "Marjane Satrapi",
+        "description": "La historia de una niña iraní que crece durante la Revolución Islámica. Basada en la novela gráfica autobiográfica de Marjane Satrapi."
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "./public/icono_musica.svg",
+        "title": "Escuchá",
+        "description": "No subestimes la banda sonora. A veces es mejor que la historia misma."
+      },
+      {
+        "icon": "./public/icono_pensando.svg",
+        "title": "Pensá",
+        "description": "Después de verla, date un tiempo para digerirla. Estas pelis suelen dejar algo para pensar."
+      },
+      {
+        "icon": "./public/icono_investigando.svg",
+        "title": "Investigá",
+        "description": "Si te gusta una, rastreá otras del mismo director o con la misma gente. Puede ser un viaje."
+      },
+      {
+        "icon": "./public/icono_llorando.svg",
+        "title": "Llorate todo",
+        "description": "Algunas te parten el corazón. No pasa nada si tirás un par de lágrimas."
+      }
+    ],
+    "outsideCinema": [
+      {
+        "title": "En el Animé",
+        "description": "El género 'coming of age' es muy popular en el anime japonés. Obras como 'A Silent Voice', 'Kiki's Delivery Service' y 'Your Name' exploran temas de crecimiento personal y descubrimiento."
+      },
+      {
+        "title": "En la literatura",
+        "description": "Muchas obras de la literatura clásica también encajan en el género. 'To Kill a Mockingbird' y 'Catcher in the Rye' son ejemplos destacados."
+      }
+    ],
+    "netflix": [
+      {
+        "title_es": "Las ventajas de ser invisible",
+        "title_en": "(The Perks of Being a Wallflower)"
+      },
+      {
+        "title_es": "Cuenta conmigo",
+        "title_en": "(Stand by Me)"
+      },
+      {
+        "title_es": "Mi primer beso",
+        "title_en": "(My first Kiss)"
+      }
+    ],
+    "hbo": [
+      {
+        "title_es": "Se dice de mí",
+        "title_en": "(Easy A)"
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)"
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)"
+      }
+    ],
+    "prime": [
+      {
+        "title_es": "Lady Bird",
+        "title_en": "(Lady Bird)"
+      },
+      {
+        "title_es": "Juno",
+        "title_en": "(Juno)"
+      },
+      {
+        "title_es": "Sí, Dios mío, sí",
+        "title_en": "(Yes, God, yes)"
+      }
+    ],
+    "star": [
+      {
+        "title_es": "Yo, él y Raquel",
+        "title_en": "Me & Earl & the Dying Girl)"
+      },
+      {
+        "title_es": "Tres son multitud",
+        "title_en": "(Rushmore)"
+      },
+      {
+        "title_es": "La Sociedad de los Poetas Muertos",
+        "title_en": "(Dead Poets Society)"
+      }
+    ],
+    "smuggling": [
+      {
+        "title_es": "El club de los cinco",
+        "title_en": "(The Breakfast Club)"
+      },
+      {
+        "title_es": "Persépolis",
+        "title_en": "(Persepolis)"
+      },
+      {
+        "title_es": "Casi famosos",
+        "title_en": "(Almost Famous)"
+      },
+      {
+        "title_es": "Sirenas",
+        "title_en": "(Mermaids)"
+      },
+      {
+        "title_es": "La noche de las nerds",
+        "title_en": "(Booksmart)"
+      },
+      {
+        "title_es": "Momentos De Una Vida",
+        "title_en": "(Boyhood)"
+      },
+      {
+        "title_es": "Un reino bajo la luna ",
+        "title_en": "(Moonrise Kingdom)"
+      },
+      {
+        "title_es": "Rebeldes y confundidos",
+        "title_en": "(Dazed And Confused)"
+      }
+    ],
+    "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
+    "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
+    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+  },
+  "junio": {
+    "title": "Drama Invernal",
+    "description": "Son como ese repaso por la adolescencia que todos necesitamos. O sea, te tiran de lleno al quilombo de los primeros amores, las amistades que marcan época y la sensación de no tener ni idea de qué estás haciendo, pero con onda. Imaginate: es como el tutorial para pasar de ser un pibe medio perdido a codearte con el mundo adulto. Entonces, si alguna vez te preguntaste qué onda cuando los protagonistas de las películas dejan de ser unos giles y empiezan a bancársela en serio, prepárate para un viaje lleno de momentos épicos y autodescubrimiento.",
+    "movies": [
+      {
+        "title_es": "The Breakfast Club 1 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "John Hughes",
+        "description": "Dirigida por John Hughes, sigue a un grupo de estudiantes de secundaria que se encuentran durante un castigo y descubren que tienen más en común de lo que pensaban."
+      },
+      {
+        "title_es": "The Breakfast Club 2 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "Cameron Crowe",
+        "description": "Un adolescente que viaja con una banda de rock en los años 70 experimenta el mundo del rock and roll y la vida adulta."
+      },
+      {
+        "title_es": "The Breakfast Club 3",
+        "title_en": "(The Breakfast Club)",
+        "director": "Marjane Satrapi",
+        "description": "La historia de una niña iraní que crece durante la Revolución Islámica. Basada en la novela gráfica autobiográfica de Marjane Satrapi."
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "./public/icono_musica.svg",
+        "title": "Escuchá",
+        "description": "No subestimes la banda sonora. A veces es mejor que la historia misma."
+      },
+      {
+        "icon": "./public/icono_pensando.svg",
+        "title": "Pensá",
+        "description": "Después de verla, date un tiempo para digerirla. Estas pelis suelen dejar algo para pensar."
+      },
+      {
+        "icon": "./public/icono_investigando.svg",
+        "title": "Investigá",
+        "description": "Si te gusta una, rastreá otras del mismo director o con la misma gente. Puede ser un viaje."
+      },
+      {
+        "icon": "./public/icono_llorando.svg",
+        "title": "Llorate todo",
+        "description": "Algunas te parten el corazón. No pasa nada si tirás un par de lágrimas."
+      }
+    ],
+    "outsideCinema": [
+      {
+        "title": "En el Animé",
+        "description": "El género 'coming of age' es muy popular en el anime japonés. Obras como 'A Silent Voice', 'Kiki's Delivery Service' y 'Your Name' exploran temas de crecimiento personal y descubrimiento."
+      },
+      {
+        "title": "En la literatura",
+        "description": "Muchas obras de la literatura clásica también encajan en el género. 'To Kill a Mockingbird' y 'Catcher in the Rye' son ejemplos destacados."
+      }
+    ],
+    "netflix": [
+      {
+        "title_es": "Las ventajas de ser invisible",
+        "title_en": "(The Perks of Being a Wallflower)"
+      },
+      {
+        "title_es": "Cuenta conmigo",
+        "title_en": "(Stand by Me)"
+      },
+      {
+        "title_es": "Mi primer beso",
+        "title_en": "(My first Kiss)"
+      }
+    ],
+    "hbo": [
+      {
+        "title_es": "Se dice de mí",
+        "title_en": "(Easy A)"
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)"
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)"
+      }
+    ],
+    "prime": [
+      {
+        "title_es": "Lady Bird",
+        "title_en": "(Lady Bird)"
+      },
+      {
+        "title_es": "Juno",
+        "title_en": "(Juno)"
+      },
+      {
+        "title_es": "Sí, Dios mío, sí",
+        "title_en": "(Yes, God, yes)"
+      }
+    ],
+    "star": [
+      {
+        "title_es": "Yo, él y Raquel",
+        "title_en": "Me & Earl & the Dying Girl)"
+      },
+      {
+        "title_es": "Tres son multitud",
+        "title_en": "(Rushmore)"
+      },
+      {
+        "title_es": "La Sociedad de los Poetas Muertos",
+        "title_en": "(Dead Poets Society)"
+      }
+    ],
+    "smuggling": [
+      {
+        "title_es": "El club de los cinco",
+        "title_en": "(The Breakfast Club)"
+      },
+      {
+        "title_es": "Persépolis",
+        "title_en": "(Persepolis)"
+      },
+      {
+        "title_es": "Casi famosos",
+        "title_en": "(Almost Famous)"
+      },
+      {
+        "title_es": "Sirenas",
+        "title_en": "(Mermaids)"
+      },
+      {
+        "title_es": "La noche de las nerds",
+        "title_en": "(Booksmart)"
+      },
+      {
+        "title_es": "Momentos De Una Vida",
+        "title_en": "(Boyhood)"
+      },
+      {
+        "title_es": "Un reino bajo la luna ",
+        "title_en": "(Moonrise Kingdom)"
+      },
+      {
+        "title_es": "Rebeldes y confundidos",
+        "title_en": "(Dazed And Confused)"
+      }
+    ],
+    "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
+    "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
+    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+  },
+  "julio": {
+    "title": "Sobre la amistad",
+    "description": "Son como ese repaso por la adolescencia que todos necesitamos. O sea, te tiran de lleno al quilombo de los primeros amores, las amistades que marcan época y la sensación de no tener ni idea de qué estás haciendo, pero con onda. Imaginate: es como el tutorial para pasar de ser un pibe medio perdido a codearte con el mundo adulto. Entonces, si alguna vez te preguntaste qué onda cuando los protagonistas de las películas dejan de ser unos giles y empiezan a bancársela en serio, prepárate para un viaje lleno de momentos épicos y autodescubrimiento.",
+    "movies": [
+      {
+        "title_es": "The Breakfast Club 1 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "John Hughes",
+        "description": "Dirigida por John Hughes, sigue a un grupo de estudiantes de secundaria que se encuentran durante un castigo y descubren que tienen más en común de lo que pensaban."
+      },
+      {
+        "title_es": "The Breakfast Club 2 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "Cameron Crowe",
+        "description": "Un adolescente que viaja con una banda de rock en los años 70 experimenta el mundo del rock and roll y la vida adulta."
+      },
+      {
+        "title_es": "The Breakfast Club 3",
+        "title_en": "(The Breakfast Club)",
+        "director": "Marjane Satrapi",
+        "description": "La historia de una niña iraní que crece durante la Revolución Islámica. Basada en la novela gráfica autobiográfica de Marjane Satrapi."
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "./public/icono_musica.svg",
+        "title": "Escuchá",
+        "description": "No subestimes la banda sonora. A veces es mejor que la historia misma."
+      },
+      {
+        "icon": "./public/icono_pensando.svg",
+        "title": "Pensá",
+        "description": "Después de verla, date un tiempo para digerirla. Estas pelis suelen dejar algo para pensar."
+      },
+      {
+        "icon": "./public/icono_investigando.svg",
+        "title": "Investigá",
+        "description": "Si te gusta una, rastreá otras del mismo director o con la misma gente. Puede ser un viaje."
+      },
+      {
+        "icon": "./public/icono_llorando.svg",
+        "title": "Llorate todo",
+        "description": "Algunas te parten el corazón. No pasa nada si tirás un par de lágrimas."
+      }
+    ],
+    "outsideCinema": [
+      {
+        "title": "En el Animé",
+        "description": "El género 'coming of age' es muy popular en el anime japonés. Obras como 'A Silent Voice', 'Kiki's Delivery Service' y 'Your Name' exploran temas de crecimiento personal y descubrimiento."
+      },
+      {
+        "title": "En la literatura",
+        "description": "Muchas obras de la literatura clásica también encajan en el género. 'To Kill a Mockingbird' y 'Catcher in the Rye' son ejemplos destacados."
+      }
+    ],
+    "netflix": [
+      {
+        "title_es": "Las ventajas de ser invisible",
+        "title_en": "(The Perks of Being a Wallflower)"
+      },
+      {
+        "title_es": "Cuenta conmigo",
+        "title_en": "(Stand by Me)"
+      },
+      {
+        "title_es": "Mi primer beso",
+        "title_en": "(My first Kiss)"
+      }
+    ],
+    "hbo": [
+      {
+        "title_es": "Se dice de mí",
+        "title_en": "(Easy A)"
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)"
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)"
+      }
+    ],
+    "prime": [
+      {
+        "title_es": "Lady Bird",
+        "title_en": "(Lady Bird)"
+      },
+      {
+        "title_es": "Juno",
+        "title_en": "(Juno)"
+      },
+      {
+        "title_es": "Sí, Dios mío, sí",
+        "title_en": "(Yes, God, yes)"
+      }
+    ],
+    "star": [
+      {
+        "title_es": "Yo, él y Raquel",
+        "title_en": "Me & Earl & the Dying Girl)"
+      },
+      {
+        "title_es": "Tres son multitud",
+        "title_en": "(Rushmore)"
+      },
+      {
+        "title_es": "La Sociedad de los Poetas Muertos",
+        "title_en": "(Dead Poets Society)"
+      }
+    ],
+    "smuggling": [
+      {
+        "title_es": "El club de los cinco",
+        "title_en": "(The Breakfast Club)"
+      },
+      {
+        "title_es": "Persépolis",
+        "title_en": "(Persepolis)"
+      },
+      {
+        "title_es": "Casi famosos",
+        "title_en": "(Almost Famous)"
+      },
+      {
+        "title_es": "Sirenas",
+        "title_en": "(Mermaids)"
+      },
+      {
+        "title_es": "La noche de las nerds",
+        "title_en": "(Booksmart)"
+      },
+      {
+        "title_es": "Momentos De Una Vida",
+        "title_en": "(Boyhood)"
+      },
+      {
+        "title_es": "Un reino bajo la luna ",
+        "title_en": "(Moonrise Kingdom)"
+      },
+      {
+        "title_es": "Rebeldes y confundidos",
+        "title_en": "(Dazed And Confused)"
+      }
+    ],
+    "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
+    "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
+    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+  },
+  "agosto": {
+    "title": "De culto",
+    "description": "Son como ese repaso por la adolescencia que todos necesitamos. O sea, te tiran de lleno al quilombo de los primeros amores, las amistades que marcan época y la sensación de no tener ni idea de qué estás haciendo, pero con onda. Imaginate: es como el tutorial para pasar de ser un pibe medio perdido a codearte con el mundo adulto. Entonces, si alguna vez te preguntaste qué onda cuando los protagonistas de las películas dejan de ser unos giles y empiezan a bancársela en serio, prepárate para un viaje lleno de momentos épicos y autodescubrimiento.",
+    "movies": [
+      {
+        "title_es": "The Breakfast Club 1 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "John Hughes",
+        "description": "Dirigida por John Hughes, sigue a un grupo de estudiantes de secundaria que se encuentran durante un castigo y descubren que tienen más en común de lo que pensaban."
+      },
+      {
+        "title_es": "The Breakfast Club 2 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "Cameron Crowe",
+        "description": "Un adolescente que viaja con una banda de rock en los años 70 experimenta el mundo del rock and roll y la vida adulta."
+      },
+      {
+        "title_es": "The Breakfast Club 3",
+        "title_en": "(The Breakfast Club)",
+        "director": "Marjane Satrapi",
+        "description": "La historia de una niña iraní que crece durante la Revolución Islámica. Basada en la novela gráfica autobiográfica de Marjane Satrapi."
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "./public/icono_musica.svg",
+        "title": "Escuchá",
+        "description": "No subestimes la banda sonora. A veces es mejor que la historia misma."
+      },
+      {
+        "icon": "./public/icono_pensando.svg",
+        "title": "Pensá",
+        "description": "Después de verla, date un tiempo para digerirla. Estas pelis suelen dejar algo para pensar."
+      },
+      {
+        "icon": "./public/icono_investigando.svg",
+        "title": "Investigá",
+        "description": "Si te gusta una, rastreá otras del mismo director o con la misma gente. Puede ser un viaje."
+      },
+      {
+        "icon": "./public/icono_llorando.svg",
+        "title": "Llorate todo",
+        "description": "Algunas te parten el corazón. No pasa nada si tirás un par de lágrimas."
+      }
+    ],
+    "outsideCinema": [
+      {
+        "title": "En el Animé",
+        "description": "El género 'coming of age' es muy popular en el anime japonés. Obras como 'A Silent Voice', 'Kiki's Delivery Service' y 'Your Name' exploran temas de crecimiento personal y descubrimiento."
+      },
+      {
+        "title": "En la literatura",
+        "description": "Muchas obras de la literatura clásica también encajan en el género. 'To Kill a Mockingbird' y 'Catcher in the Rye' son ejemplos destacados."
+      }
+    ],
+    "netflix": [
+      {
+        "title_es": "Las ventajas de ser invisible",
+        "title_en": "(The Perks of Being a Wallflower)"
+      },
+      {
+        "title_es": "Cuenta conmigo",
+        "title_en": "(Stand by Me)"
+      },
+      {
+        "title_es": "Mi primer beso",
+        "title_en": "(My first Kiss)"
+      }
+    ],
+    "hbo": [
+      {
+        "title_es": "Se dice de mí",
+        "title_en": "(Easy A)"
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)"
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)"
+      }
+    ],
+    "prime": [
+      {
+        "title_es": "Lady Bird",
+        "title_en": "(Lady Bird)"
+      },
+      {
+        "title_es": "Juno",
+        "title_en": "(Juno)"
+      },
+      {
+        "title_es": "Sí, Dios mío, sí",
+        "title_en": "(Yes, God, yes)"
+      }
+    ],
+    "star": [
+      {
+        "title_es": "Yo, él y Raquel",
+        "title_en": "Me & Earl & the Dying Girl)"
+      },
+      {
+        "title_es": "Tres son multitud",
+        "title_en": "(Rushmore)"
+      },
+      {
+        "title_es": "La Sociedad de los Poetas Muertos",
+        "title_en": "(Dead Poets Society)"
+      }
+    ],
+    "smuggling": [
+      {
+        "title_es": "El club de los cinco",
+        "title_en": "(The Breakfast Club)"
+      },
+      {
+        "title_es": "Persépolis",
+        "title_en": "(Persepolis)"
+      },
+      {
+        "title_es": "Casi famosos",
+        "title_en": "(Almost Famous)"
+      },
+      {
+        "title_es": "Sirenas",
+        "title_en": "(Mermaids)"
+      },
+      {
+        "title_es": "La noche de las nerds",
+        "title_en": "(Booksmart)"
+      },
+      {
+        "title_es": "Momentos De Una Vida",
+        "title_en": "(Boyhood)"
+      },
+      {
+        "title_es": "Un reino bajo la luna ",
+        "title_en": "(Moonrise Kingdom)"
+      },
+      {
+        "title_es": "Rebeldes y confundidos",
+        "title_en": "(Dazed And Confused)"
+      }
+    ],
+    "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
+    "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
+    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+  },
+  "septiembre": {
+    "title": "Coming of Age",
+    "description": "Son como ese repaso por la adolescencia que todos necesitamos. O sea, te tiran de lleno al quilombo de los primeros amores, las amistades que marcan época y la sensación de no tener ni idea de qué estás haciendo, pero con onda. Imaginate: es como el tutorial para pasar de ser un pibe medio perdido a codearte con el mundo adulto. Entonces, si alguna vez te preguntaste qué onda cuando los protagonistas de las películas dejan de ser unos giles y empiezan a bancársela en serio, prepárate para un viaje lleno de momentos épicos y autodescubrimiento.",
+    "movies": [
+      {
+        "title_es": "The Breakfast Club 1 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "John Hughes",
+        "description": "Dirigida por John Hughes, sigue a un grupo de estudiantes de secundaria que se encuentran durante un castigo y descubren que tienen más en común de lo que pensaban."
+      },
+      {
+        "title_es": "The Breakfast Club 2 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "Cameron Crowe",
+        "description": "Un adolescente que viaja con una banda de rock en los años 70 experimenta el mundo del rock and roll y la vida adulta."
+      },
+      {
+        "title_es": "The Breakfast Club 3",
+        "title_en": "(The Breakfast Club)",
+        "director": "Marjane Satrapi",
+        "description": "La historia de una niña iraní que crece durante la Revolución Islámica. Basada en la novela gráfica autobiográfica de Marjane Satrapi."
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "./public/icono_musica.svg",
+        "title": "Escuchá",
+        "description": "No subestimes la banda sonora. A veces es mejor que la historia misma."
+      },
+      {
+        "icon": "./public/icono_pensando.svg",
+        "title": "Pensá",
+        "description": "Después de verla, date un tiempo para digerirla. Estas pelis suelen dejar algo para pensar."
+      },
+      {
+        "icon": "./public/icono_investigando.svg",
+        "title": "Investigá",
+        "description": "Si te gusta una, rastreá otras del mismo director o con la misma gente. Puede ser un viaje."
+      },
+      {
+        "icon": "./public/icono_llorando.svg",
+        "title": "Llorate todo",
+        "description": "Algunas te parten el corazón. No pasa nada si tirás un par de lágrimas."
+      }
+    ],
+    "outsideCinema": [
+      {
+        "title": "En el Animé",
+        "description": "El género 'coming of age' es muy popular en el anime japonés. Obras como 'A Silent Voice', 'Kiki's Delivery Service' y 'Your Name' exploran temas de crecimiento personal y descubrimiento."
+      },
+      {
+        "title": "En la literatura",
+        "description": "Muchas obras de la literatura clásica también encajan en el género. 'To Kill a Mockingbird' y 'Catcher in the Rye' son ejemplos destacados."
+      }
+    ],
+    "netflix": [
+      {
+        "title_es": "Las ventajas de ser invisible",
+        "title_en": "(The Perks of Being a Wallflower)"
+      },
+      {
+        "title_es": "Cuenta conmigo",
+        "title_en": "(Stand by Me)"
+      },
+      {
+        "title_es": "Mi primer beso",
+        "title_en": "(My first Kiss)"
+      }
+    ],
+    "hbo": [
+      {
+        "title_es": "Se dice de mí",
+        "title_en": "(Easy A)"
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)"
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)"
+      }
+    ],
+    "prime": [
+      {
+        "title_es": "Lady Bird",
+        "title_en": "(Lady Bird)"
+      },
+      {
+        "title_es": "Juno",
+        "title_en": "(Juno)"
+      },
+      {
+        "title_es": "Sí, Dios mío, sí",
+        "title_en": "(Yes, God, yes)"
+      }
+    ],
+    "star": [
+      {
+        "title_es": "Yo, él y Raquel",
+        "title_en": "Me & Earl & the Dying Girl)"
+      },
+      {
+        "title_es": "Tres son multitud",
+        "title_en": "(Rushmore)"
+      },
+      {
+        "title_es": "La Sociedad de los Poetas Muertos",
+        "title_en": "(Dead Poets Society)"
+      }
+    ],
+    "smuggling": [
+      {
+        "title_es": "El club de los cinco",
+        "title_en": "(The Breakfast Club)"
+      },
+      {
+        "title_es": "Persépolis",
+        "title_en": "(Persepolis)"
+      },
+      {
+        "title_es": "Casi famosos",
+        "title_en": "(Almost Famous)"
+      },
+      {
+        "title_es": "Sirenas",
+        "title_en": "(Mermaids)"
+      },
+      {
+        "title_es": "La noche de las nerds",
+        "title_en": "(Booksmart)"
+      },
+      {
+        "title_es": "Momentos De Una Vida",
+        "title_en": "(Boyhood)"
+      },
+      {
+        "title_es": "Un reino bajo la luna ",
+        "title_en": "(Moonrise Kingdom)"
+      },
+      {
+        "title_es": "Rebeldes y confundidos",
+        "title_en": "(Dazed And Confused)"
+      }
+    ],
+    "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
+    "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
+    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+  },
+  "octubre": {
+    "title": "Terror Psicológico",
+    "description": "Son como ese repaso por la adolescencia que todos necesitamos. O sea, te tiran de lleno al quilombo de los primeros amores, las amistades que marcan época y la sensación de no tener ni idea de qué estás haciendo, pero con onda. Imaginate: es como el tutorial para pasar de ser un pibe medio perdido a codearte con el mundo adulto. Entonces, si alguna vez te preguntaste qué onda cuando los protagonistas de las películas dejan de ser unos giles y empiezan a bancársela en serio, prepárate para un viaje lleno de momentos épicos y autodescubrimiento.",
+    "movies": [
+      {
+        "title_es": "The Breakfast Club 1 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "John Hughes",
+        "description": "Dirigida por John Hughes, sigue a un grupo de estudiantes de secundaria que se encuentran durante un castigo y descubren que tienen más en común de lo que pensaban."
+      },
+      {
+        "title_es": "The Breakfast Club 2 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "Cameron Crowe",
+        "description": "Un adolescente que viaja con una banda de rock en los años 70 experimenta el mundo del rock and roll y la vida adulta."
+      },
+      {
+        "title_es": "The Breakfast Club 3",
+        "title_en": "(The Breakfast Club)",
+        "director": "Marjane Satrapi",
+        "description": "La historia de una niña iraní que crece durante la Revolución Islámica. Basada en la novela gráfica autobiográfica de Marjane Satrapi."
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "./public/icono_musica.svg",
+        "title": "Escuchá",
+        "description": "No subestimes la banda sonora. A veces es mejor que la historia misma."
+      },
+      {
+        "icon": "./public/icono_pensando.svg",
+        "title": "Pensá",
+        "description": "Después de verla, date un tiempo para digerirla. Estas pelis suelen dejar algo para pensar."
+      },
+      {
+        "icon": "./public/icono_investigando.svg",
+        "title": "Investigá",
+        "description": "Si te gusta una, rastreá otras del mismo director o con la misma gente. Puede ser un viaje."
+      },
+      {
+        "icon": "./public/icono_llorando.svg",
+        "title": "Llorate todo",
+        "description": "Algunas te parten el corazón. No pasa nada si tirás un par de lágrimas."
+      }
+    ],
+    "outsideCinema": [
+      {
+        "title": "En el Animé",
+        "description": "El género 'coming of age' es muy popular en el anime japonés. Obras como 'A Silent Voice', 'Kiki's Delivery Service' y 'Your Name' exploran temas de crecimiento personal y descubrimiento."
+      },
+      {
+        "title": "En la literatura",
+        "description": "Muchas obras de la literatura clásica también encajan en el género. 'To Kill a Mockingbird' y 'Catcher in the Rye' son ejemplos destacados."
+      }
+    ],
+    "netflix": [
+      {
+        "title_es": "Las ventajas de ser invisible",
+        "title_en": "(The Perks of Being a Wallflower)"
+      },
+      {
+        "title_es": "Cuenta conmigo",
+        "title_en": "(Stand by Me)"
+      },
+      {
+        "title_es": "Mi primer beso",
+        "title_en": "(My first Kiss)"
+      }
+    ],
+    "hbo": [
+      {
+        "title_es": "Se dice de mí",
+        "title_en": "(Easy A)"
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)"
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)"
+      }
+    ],
+    "prime": [
+      {
+        "title_es": "Lady Bird",
+        "title_en": "(Lady Bird)"
+      },
+      {
+        "title_es": "Juno",
+        "title_en": "(Juno)"
+      },
+      {
+        "title_es": "Sí, Dios mío, sí",
+        "title_en": "(Yes, God, yes)"
+      }
+    ],
+    "star": [
+      {
+        "title_es": "Yo, él y Raquel",
+        "title_en": "Me & Earl & the Dying Girl)"
+      },
+      {
+        "title_es": "Tres son multitud",
+        "title_en": "(Rushmore)"
+      },
+      {
+        "title_es": "La Sociedad de los Poetas Muertos",
+        "title_en": "(Dead Poets Society)"
+      }
+    ],
+    "smuggling": [
+      {
+        "title_es": "El club de los cinco",
+        "title_en": "(The Breakfast Club)"
+      },
+      {
+        "title_es": "Persépolis",
+        "title_en": "(Persepolis)"
+      },
+      {
+        "title_es": "Casi famosos",
+        "title_en": "(Almost Famous)"
+      },
+      {
+        "title_es": "Sirenas",
+        "title_en": "(Mermaids)"
+      },
+      {
+        "title_es": "La noche de las nerds",
+        "title_en": "(Booksmart)"
+      },
+      {
+        "title_es": "Momentos De Una Vida",
+        "title_en": "(Boyhood)"
+      },
+      {
+        "title_es": "Un reino bajo la luna ",
+        "title_en": "(Moonrise Kingdom)"
+      },
+      {
+        "title_es": "Rebeldes y confundidos",
+        "title_en": "(Dazed And Confused)"
+      }
+    ],
+    "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
+    "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
+    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+  },
+  "noviembre": {
+    "title": "Animada (no disney ni dreamworks)",
+    "description": "Son como ese repaso por la adolescencia que todos necesitamos. O sea, te tiran de lleno al quilombo de los primeros amores, las amistades que marcan época y la sensación de no tener ni idea de qué estás haciendo, pero con onda. Imaginate: es como el tutorial para pasar de ser un pibe medio perdido a codearte con el mundo adulto. Entonces, si alguna vez te preguntaste qué onda cuando los protagonistas de las películas dejan de ser unos giles y empiezan a bancársela en serio, prepárate para un viaje lleno de momentos épicos y autodescubrimiento.",
+    "movies": [
+      {
+        "title_es": "The Breakfast Club 1 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "John Hughes",
+        "description": "Dirigida por John Hughes, sigue a un grupo de estudiantes de secundaria que se encuentran durante un castigo y descubren que tienen más en común de lo que pensaban."
+      },
+      {
+        "title_es": "The Breakfast Club 2 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "Cameron Crowe",
+        "description": "Un adolescente que viaja con una banda de rock en los años 70 experimenta el mundo del rock and roll y la vida adulta."
+      },
+      {
+        "title_es": "The Breakfast Club 3",
+        "title_en": "(The Breakfast Club)",
+        "director": "Marjane Satrapi",
+        "description": "La historia de una niña iraní que crece durante la Revolución Islámica. Basada en la novela gráfica autobiográfica de Marjane Satrapi."
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "./public/icono_musica.svg",
+        "title": "Escuchá",
+        "description": "No subestimes la banda sonora. A veces es mejor que la historia misma."
+      },
+      {
+        "icon": "./public/icono_pensando.svg",
+        "title": "Pensá",
+        "description": "Después de verla, date un tiempo para digerirla. Estas pelis suelen dejar algo para pensar."
+      },
+      {
+        "icon": "./public/icono_investigando.svg",
+        "title": "Investigá",
+        "description": "Si te gusta una, rastreá otras del mismo director o con la misma gente. Puede ser un viaje."
+      },
+      {
+        "icon": "./public/icono_llorando.svg",
+        "title": "Llorate todo",
+        "description": "Algunas te parten el corazón. No pasa nada si tirás un par de lágrimas."
+      }
+    ],
+    "outsideCinema": [
+      {
+        "title": "En el Animé",
+        "description": "El género 'coming of age' es muy popular en el anime japonés. Obras como 'A Silent Voice', 'Kiki's Delivery Service' y 'Your Name' exploran temas de crecimiento personal y descubrimiento."
+      },
+      {
+        "title": "En la literatura",
+        "description": "Muchas obras de la literatura clásica también encajan en el género. 'To Kill a Mockingbird' y 'Catcher in the Rye' son ejemplos destacados."
+      }
+    ],
+    "netflix": [
+      {
+        "title_es": "Las ventajas de ser invisible",
+        "title_en": "(The Perks of Being a Wallflower)"
+      },
+      {
+        "title_es": "Cuenta conmigo",
+        "title_en": "(Stand by Me)"
+      },
+      {
+        "title_es": "Mi primer beso",
+        "title_en": "(My first Kiss)"
+      }
+    ],
+    "hbo": [
+      {
+        "title_es": "Se dice de mí",
+        "title_en": "(Easy A)"
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)"
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)"
+      }
+    ],
+    "prime": [
+      {
+        "title_es": "Lady Bird",
+        "title_en": "(Lady Bird)"
+      },
+      {
+        "title_es": "Juno",
+        "title_en": "(Juno)"
+      },
+      {
+        "title_es": "Sí, Dios mío, sí",
+        "title_en": "(Yes, God, yes)"
+      }
+    ],
+    "star": [
+      {
+        "title_es": "Yo, él y Raquel",
+        "title_en": "Me & Earl & the Dying Girl)"
+      },
+      {
+        "title_es": "Tres son multitud",
+        "title_en": "(Rushmore)"
+      },
+      {
+        "title_es": "La Sociedad de los Poetas Muertos",
+        "title_en": "(Dead Poets Society)"
+      }
+    ],
+    "smuggling": [
+      {
+        "title_es": "El club de los cinco",
+        "title_en": "(The Breakfast Club)"
+      },
+      {
+        "title_es": "Persépolis",
+        "title_en": "(Persepolis)"
+      },
+      {
+        "title_es": "Casi famosos",
+        "title_en": "(Almost Famous)"
+      },
+      {
+        "title_es": "Sirenas",
+        "title_en": "(Mermaids)"
+      },
+      {
+        "title_es": "La noche de las nerds",
+        "title_en": "(Booksmart)"
+      },
+      {
+        "title_es": "Momentos De Una Vida",
+        "title_en": "(Boyhood)"
+      },
+      {
+        "title_es": "Un reino bajo la luna ",
+        "title_en": "(Moonrise Kingdom)"
+      },
+      {
+        "title_es": "Rebeldes y confundidos",
+        "title_en": "(Dazed And Confused)"
+      }
+    ],
+    "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
+    "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
+    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+  },
+  "diciembre": {
+    "title": "Sobre la familia",
+    "description": "Son como ese repaso por la adolescencia que todos necesitamos. O sea, te tiran de lleno al quilombo de los primeros amores, las amistades que marcan época y la sensación de no tener ni idea de qué estás haciendo, pero con onda. Imaginate: es como el tutorial para pasar de ser un pibe medio perdido a codearte con el mundo adulto. Entonces, si alguna vez te preguntaste qué onda cuando los protagonistas de las películas dejan de ser unos giles y empiezan a bancársela en serio, prepárate para un viaje lleno de momentos épicos y autodescubrimiento.",
+    "movies": [
+      {
+        "title_es": "The Breakfast Club 1 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "John Hughes",
+        "description": "Dirigida por John Hughes, sigue a un grupo de estudiantes de secundaria que se encuentran durante un castigo y descubren que tienen más en común de lo que pensaban."
+      },
+      {
+        "title_es": "The Breakfast Club 2 ",
+        "title_en": "(The Breakfast Club)",
+        "director": "Cameron Crowe",
+        "description": "Un adolescente que viaja con una banda de rock en los años 70 experimenta el mundo del rock and roll y la vida adulta."
+      },
+      {
+        "title_es": "The Breakfast Club 3",
+        "title_en": "(The Breakfast Club)",
+        "director": "Marjane Satrapi",
+        "description": "La historia de una niña iraní que crece durante la Revolución Islámica. Basada en la novela gráfica autobiográfica de Marjane Satrapi."
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)",
+        "director": "Olivia Wilde",
+        "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
+      }
+    ],
+    "tips": [
+      {
+        "icon": "./public/icono_musica.svg",
+        "title": "Escuchá",
+        "description": "No subestimes la banda sonora. A veces es mejor que la historia misma."
+      },
+      {
+        "icon": "./public/icono_pensando.svg",
+        "title": "Pensá",
+        "description": "Después de verla, date un tiempo para digerirla. Estas pelis suelen dejar algo para pensar."
+      },
+      {
+        "icon": "./public/icono_investigando.svg",
+        "title": "Investigá",
+        "description": "Si te gusta una, rastreá otras del mismo director o con la misma gente. Puede ser un viaje."
+      },
+      {
+        "icon": "./public/icono_llorando.svg",
+        "title": "Llorate todo",
+        "description": "Algunas te parten el corazón. No pasa nada si tirás un par de lágrimas."
+      }
+    ],
+    "outsideCinema": [
+      {
+        "title": "En el Animé",
+        "description": "El género 'coming of age' es muy popular en el anime japonés. Obras como 'A Silent Voice', 'Kiki's Delivery Service' y 'Your Name' exploran temas de crecimiento personal y descubrimiento."
+      },
+      {
+        "title": "En la literatura",
+        "description": "Muchas obras de la literatura clásica también encajan en el género. 'To Kill a Mockingbird' y 'Catcher in the Rye' son ejemplos destacados."
+      }
+    ],
+    "netflix": [
+      {
+        "title_es": "Las ventajas de ser invisible",
+        "title_en": "(The Perks of Being a Wallflower)"
+      },
+      {
+        "title_es": "Cuenta conmigo",
+        "title_en": "(Stand by Me)"
+      },
+      {
+        "title_es": "Mi primer beso",
+        "title_en": "(My first Kiss)"
+      }
+    ],
+    "hbo": [
+      {
+        "title_es": "Se dice de mí",
+        "title_en": "(Easy A)"
+      },
+      {
+        "title_es": "Súper Cool",
+        "title_en": "(Superbad)"
+      },
+      {
+        "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
+        "title_en": "(Are You There God? It’s Me, Margaret)"
+      }
+    ],
+    "prime": [
+      {
+        "title_es": "Lady Bird",
+        "title_en": "(Lady Bird)"
+      },
+      {
+        "title_es": "Juno",
+        "title_en": "(Juno)"
+      },
+      {
+        "title_es": "Sí, Dios mío, sí",
+        "title_en": "(Yes, God, yes)"
+      }
+    ],
+    "star": [
+      {
+        "title_es": "Yo, él y Raquel",
+        "title_en": "Me & Earl & the Dying Girl)"
+      },
+      {
+        "title_es": "Tres son multitud",
+        "title_en": "(Rushmore)"
+      },
+      {
+        "title_es": "La Sociedad de los Poetas Muertos",
+        "title_en": "(Dead Poets Society)"
+      }
+    ],
+    "smuggling": [
+      {
+        "title_es": "El club de los cinco",
+        "title_en": "(The Breakfast Club)"
+      },
+      {
+        "title_es": "Persépolis",
+        "title_en": "(Persepolis)"
+      },
+      {
+        "title_es": "Casi famosos",
+        "title_en": "(Almost Famous)"
+      },
+      {
+        "title_es": "Sirenas",
+        "title_en": "(Mermaids)"
+      },
+      {
+        "title_es": "La noche de las nerds",
+        "title_en": "(Booksmart)"
+      },
+      {
+        "title_es": "Momentos De Una Vida",
+        "title_en": "(Boyhood)"
+      },
+      {
+        "title_es": "Un reino bajo la luna ",
+        "title_en": "(Moonrise Kingdom)"
+      },
+      {
+        "title_es": "Rebeldes y confundidos",
+        "title_en": "(Dazed And Confused)"
+      }
+    ],
+    "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
+    "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
+    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
   }
 }
