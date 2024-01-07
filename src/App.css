@@ -113,18 +113,16 @@ h1 {
   letter-spacing: -2px;
 }
 
-.header-interna {
-  display: block;
-  font-size: 35px;
-  color: var(--first-color);
-  text-transform: uppercase;
-  font-weight: bold;
-  line-height: 100%;
-  padding-top: 20px;
-  letter-spacing: -2px;
-  text-align: center;
-  text-decoration: none;
-  z-index: 10;
+.link-back {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 100;
+  background-color: #000;
+  border-radius: var(--border-radius);
+  padding: 10px;
+  transition: all 0.2s;
+  box-shadow: none;
 }
 
 h2 {
@@ -502,6 +500,12 @@ footer img {
   .nav-month a:nth-child(12):hover {
     background-image: url("./assets/img/12.gif");
   }
+
+  .link-back:hover {
+    transform: scale(1.3);
+    transition: all 0.2s;
+    box-shadow: var(--box-shadow);
+  }
 }
 
 /* precarga de imagenes */
@@ -543,6 +547,7 @@ footer img {
 
 .content-interna header {
   position: relative;
+  top: -60px;
   height: 100vh;
 }
 
@@ -607,14 +612,23 @@ footer img {
 }
 
 .nav-month {
-  background-color: var(--bl-color);
   position: relative;
-  top: 20px;
-  width: 100%;
+  top: 60px;
+
+  width: 90%;
+  max-width: 1440px;
+  margin: 0 auto;
+  z-index: 100;
+  background-color: var(--bl-color);
   display: flex;
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
+}
+
+.nav-month.sticky-nav {
+  position: sticky;
+  top: 0 !important;
 }
 
 .nav-month a {
@@ -729,7 +743,7 @@ footer img {
 }
 
 .ci-title {
-  margin-top: -20vh;
+  margin-top: -30vh;
   position: relative;
   background: rgb(227, 94, 63);
   background: linear-gradient(
