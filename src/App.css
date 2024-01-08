@@ -557,63 +557,63 @@ footer img {
 }
 
 .content-interna header.enero {
-  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
-    center center / cover;
+  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+    no-repeat center center / cover;
 }
 
 .content-interna header.febrero {
-  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
-    center center / cover;
+  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+    no-repeat center center / cover;
 }
 
 .content-interna header.marzo {
-  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
-    center center / cover;
+  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+    no-repeat center center / cover;
 }
 
 .content-interna header.abril {
-  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
-    center center / cover;
+  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+    no-repeat center center / cover;
 }
 
 .content-interna header.mayo {
-  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
-    center center / cover;
+  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+    no-repeat center center / cover;
 }
 
 .content-interna header.junio {
-  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
-    center center / cover;
+  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+    no-repeat center center / cover;
 }
 
 .content-interna header.julio {
-  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
-    center center / cover;
+  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+    no-repeat center center / cover;
 }
 
 .content-interna header.agosto {
-  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
-    center center / cover;
+  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+    no-repeat center center / cover;
 }
 
 .content-interna header.septiembre {
-  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
-    center center / cover;
+  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+    no-repeat center center / cover;
 }
 
 .content-interna header.octubre {
-  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
-    center center / cover;
+  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+    no-repeat center center / cover;
 }
 
 .content-interna header.noviembre {
-  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
-    center center / cover;
+  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+    no-repeat center center / cover;
 }
 
 .content-interna header.diciembre {
-  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
-    center center / cover;
+  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+    no-repeat center center / cover;
 }
 
 .nav-month {
