@@ -1,4 +1,4 @@
-import { useParams, Link } from "react-router-dom";
+import { useParams } from "react-router-dom";
 
 import data from "../data/data.json";
 
@@ -8,6 +8,7 @@ import logo_prime from "../assets/img/logo_prime.png";
 import logo_star from "../assets/img/logo_star.png";
 
 import Footer from "./Footer";
+import BtnBack from "./btnBack";
 
 const Month = () => {
   // Utiliza el hook useParams para acceder a los parámetros de la URL
@@ -172,11 +173,8 @@ const Month = () => {
 
         <span className="last-span">CARPE DIEM!</span>
 
+        <BtnBack />
         <Footer />
-
-        <Link to="/" className="link-back">
-          &nbsp;
-        </Link>
       </div>
     </div>
   );
