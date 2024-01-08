@@ -353,7 +353,7 @@ ul.movie-grid > li:nth-child(12) .img-month {
 
 footer {
   text-align: center;
-  padding: 40px 0;
+  padding: 40px 20px;
   color: #5a5656;
   font-size: 20px;
 }
@@ -829,6 +829,33 @@ footer img {
 @media screen and (orientation: portrait) {
   .wrap-flex {
     flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .movies-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .wrap-content p {
+    width: 100%;
+  }
+
+  footer {
+    padding-bottom: 130px;
+  }
+
+  .nav-month {
+    overflow-x: auto;
+    white-space: nowrap;
+    display: block;
+    width: 100%;
+  }
+
+  .nav-month a {
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+    width: 100px;
   }
 }
 
