@@ -845,17 +845,14 @@ footer img {
   }
 
   .nav-month {
-    overflow-x: auto;
-    white-space: nowrap;
-    display: block;
+    position: fixed;
+    top: 0;
     width: 100%;
+    flex-wrap: wrap;
   }
 
   .nav-month a {
-    display: inline-block;
-    margin-right: 10px;
-    cursor: pointer;
-    width: 100px;
+    width: calc(100% / 6);
   }
 }
 
