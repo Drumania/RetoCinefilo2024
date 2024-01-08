@@ -9,7 +9,6 @@ import logo_star from "../assets/img/logo_star.png";
 
 import linkback from "../assets/img/linkback.png";
 
-import NavInterna from "./NavInterna";
 import Footer from "./Footer";
 
 const Month = () => {
@@ -40,8 +39,7 @@ const Month = () => {
   return (
     <div>
       <div className="content-interna">
-        <NavInterna month={month} />
-
+        <header className={month}>&nbsp;</header>
         <section className="ci-title">
           <div className="wrap-content">
             <h2>{title}</h2>
