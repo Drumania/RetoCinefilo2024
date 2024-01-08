@@ -7,8 +7,6 @@ import logo_netflix from "../assets/img/logo_netflix.png";
 import logo_prime from "../assets/img/logo_prime.png";
 import logo_star from "../assets/img/logo_star.png";
 
-import linkback from "../assets/img/linkback.png";
-
 import Footer from "./Footer";
 
 const Month = () => {
@@ -177,7 +175,7 @@ const Month = () => {
         <Footer />
 
         <Link to="/" className="link-back">
-          <img src={linkback} alt="linkback" />
+          &nbsp;
         </Link>
       </div>
     </div>
