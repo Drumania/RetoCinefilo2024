@@ -41,6 +41,7 @@ const Month = () => {
         <header className={month}>&nbsp;</header>
         <section className="ci-title">
           <div className="wrap-content">
+            <h3>{month}</h3>
             <h2>{title}</h2>
             <p>{description}</p>
           </div>

@@ -553,67 +553,67 @@ footer img {
 .content-interna header {
   position: relative;
   top: -60px;
-  height: 100vh;
+  height: 80vh;
 }
 
 .content-interna header.enero {
-  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
-    center / cover;
+  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
+    center center / cover;
 }
 
 .content-interna header.febrero {
-  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
-    center / cover;
+  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
+    center center / cover;
 }
 
 .content-interna header.marzo {
-  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
-    center / cover;
+  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
+    center center / cover;
 }
 
 .content-interna header.abril {
-  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
-    center / cover;
+  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
+    center center / cover;
 }
 
 .content-interna header.mayo {
-  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
-    center / cover;
+  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
+    center center / cover;
 }
 
 .content-interna header.junio {
-  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
-    center / cover;
+  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
+    center center / cover;
 }
 
 .content-interna header.julio {
-  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
-    center / cover;
+  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
+    center center / cover;
 }
 
 .content-interna header.agosto {
-  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
-    center / cover;
+  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
+    center center / cover;
 }
 
 .content-interna header.septiembre {
-  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
-    center / cover;
+  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
+    center center / cover;
 }
 
 .content-interna header.octubre {
-  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
-    center / cover;
+  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
+    center center / cover;
 }
 
 .content-interna header.noviembre {
-  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
-    center / cover;
+  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
+    center center / cover;
 }
 
 .content-interna header.diciembre {
-  background: transparent url("./assets/img/headermarzo.webp") no-repeat center
-    center / cover;
+  background: transparent url("./assets/img/Coming_Of_Age-01.png") no-repeat
+    center center / cover;
 }
 
 .nav-month {
@@ -717,6 +717,7 @@ footer img {
 .content-interna h2 {
   font-size: 2.5rem;
   color: var(--wh-color);
+  margin: 10px 0 40px;
 }
 
 .content-interna h3 {
@@ -748,16 +749,14 @@ footer img {
 }
 
 .ci-title {
-  margin-top: -30vh;
+  margin-top: -5vh;
   position: relative;
-  background: rgb(227, 94, 63);
-  background: linear-gradient(
-    1deg,
-    rgba(227, 94, 63, 1) 35%,
-    rgba(227, 94, 63, 0) 82%
-  );
 }
 
+.ci-title h3 {
+  text-transform: capitalize;
+  margin: 0;
+}
 .ci-title p {
   width: 70%;
 }
@@ -826,6 +825,7 @@ footer img {
   color: var(--four-color);
   font-size: 1.6rem;
 }
+
 @media screen and (orientation: portrait) {
   .wrap-flex {
     flex-direction: column;
@@ -836,10 +836,13 @@ footer img {
     top: 0;
     width: 100%;
     flex-wrap: wrap;
+    height: 90px;
   }
 
   .nav-month a {
     width: calc(100% / 6);
+    background-size: 60%;
+    height: 40px;
   }
 
   .movies-container {
@@ -860,6 +863,10 @@ footer img {
     right: 10px;
   }
 
+  .ci-title {
+    margin-top: -9vh;
+  }
+
   footer {
     padding-bottom: 130px;
   }
@@ -873,7 +880,7 @@ footer img {
 
 .fade-enter-active {
   opacity: 1;
-  transition: opacity 500ms;
+  transition: opacity 2500ms;
 }
 
 .fade-exit {
@@ -882,5 +889,5 @@ footer img {
 
 .fade-exit-active {
   opacity: 0;
-  transition: opacity 500ms;
+  transition: opacity 2500ms;
 }
