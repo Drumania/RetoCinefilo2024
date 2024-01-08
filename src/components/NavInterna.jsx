@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams, Link, Outlet } from "react-router-dom";
+import { CSSTransition, TransitionGroup } from "react-transition-group";
 
 const NavInterna = () => {
   const [isSticky, setIsSticky] = useState(false);
@@ -18,6 +19,14 @@ const NavInterna = () => {
     };
   }, []);
 
+  const handleLinkClick = () => {
+    // Cuando se hace clic en un enlace, desplázate hacia arriba
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth", // Puedes ajustar el comportamiento del desplazamiento
+    });
+  };
+
   return (
     <>
       <nav
@@ -29,6 +38,7 @@ const NavInterna = () => {
           to="/enero"
           className={month === "enero" ? "active" : ""}
           title="Enero"
+          onClick={handleLinkClick}
         >
           &nbsp;
         </Link>
@@ -37,6 +47,7 @@ const NavInterna = () => {
           to="/febrero"
           className={month === "febrero" ? "active" : ""}
           title="Febrero"
+          onClick={handleLinkClick}
         >
           &nbsp;
         </Link>
@@ -44,6 +55,7 @@ const NavInterna = () => {
           to="/marzo"
           className={month === "marzo" ? "active" : ""}
           title="Marzo"
+          onClick={handleLinkClick}
         >
           &nbsp;
         </Link>
@@ -51,6 +63,7 @@ const NavInterna = () => {
           to="/abril"
           className={month === "abril" ? "active" : ""}
           title="Abril"
+          onClick={handleLinkClick}
         >
           &nbsp;
         </Link>
@@ -59,6 +72,7 @@ const NavInterna = () => {
           to="/mayo"
           className={month === "mayo" ? "active" : ""}
           title="Mayo"
+          onClick={handleLinkClick}
         >
           &nbsp;
         </Link>
@@ -66,6 +80,7 @@ const NavInterna = () => {
           to="/junio"
           className={month === "junio" ? "active" : ""}
           title="Junio"
+          onClick={handleLinkClick}
         >
           &nbsp;
         </Link>
@@ -73,6 +88,7 @@ const NavInterna = () => {
           to="/julio"
           className={month === "julio" ? "active" : ""}
           title="Julio"
+          onClick={handleLinkClick}
         >
           &nbsp;
         </Link>
@@ -80,6 +96,7 @@ const NavInterna = () => {
           to="/agosto"
           className={month === "agosto" ? "active" : ""}
           title="Agosto"
+          onClick={handleLinkClick}
         >
           &nbsp;
         </Link>
@@ -88,6 +105,7 @@ const NavInterna = () => {
           to="/septiembre"
           className={month === "septiembre" ? "active" : ""}
           title="Septiembre"
+          onClick={handleLinkClick}
         >
           &nbsp;
         </Link>
@@ -95,6 +113,7 @@ const NavInterna = () => {
           to="/octubre"
           className={month === "octubre" ? "active" : ""}
           title="Octubre"
+          onClick={handleLinkClick}
         >
           &nbsp;
         </Link>
@@ -102,6 +121,7 @@ const NavInterna = () => {
           to="/noviembre"
           className={month === "noviembre" ? "active" : ""}
           title="Noviembre"
+          onClick={handleLinkClick}
         >
           &nbsp;
         </Link>
@@ -109,12 +129,22 @@ const NavInterna = () => {
           to="/diciembre"
           className={month === "diciembre" ? "active" : ""}
           title="Diciembre"
+          onClick={handleLinkClick}
         >
           &nbsp;
         </Link>
       </nav>
 
-      <Outlet />
+      <TransitionGroup>
+        <CSSTransition
+          key={month}
+          timeout={500}
+          classNames="fade"
+          unmountOnExit
+        >
+          <Outlet />
+        </CSSTransition>
+      </TransitionGroup>
     </>
   );
 };
