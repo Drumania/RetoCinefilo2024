@@ -14,7 +14,7 @@ https://www.cssmatic.com/box-shadow
   --tre-color: #fe9955;
   --four-color: #f3eec8;
   --text-color: #fdfdfd;
-  --bl-color: #212121;
+  --bl-color: #000;
   --wh-color: #f3eec8;
   --line-color: #dfe0d8;
   --font-size: 16px;
@@ -553,7 +553,7 @@ footer img {
 .content-interna header {
   position: relative;
   top: -60px;
-  height: 80vh;
+  height: 100vh;
 }
 
 .content-interna header.enero {
@@ -562,7 +562,7 @@ footer img {
 }
 
 .content-interna header.febrero {
-  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+  background: var(--four-color) url("./assets/img/Viajes_en_el_tiempo-01.png")
     no-repeat center center / cover;
 }
 
@@ -572,7 +572,7 @@ footer img {
 }
 
 .content-interna header.abril {
-  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+  background: var(--four-color) url("./assets/img/Viajes_en_el_tiempo-01.png")
     no-repeat center center / cover;
 }
 
@@ -582,7 +582,7 @@ footer img {
 }
 
 .content-interna header.junio {
-  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+  background: var(--four-color) url("./assets/img/Viajes_en_el_tiempo-01.png")
     no-repeat center center / cover;
 }
 
@@ -592,7 +592,7 @@ footer img {
 }
 
 .content-interna header.agosto {
-  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+  background: var(--four-color) url("./assets/img/Viajes_en_el_tiempo-01.png")
     no-repeat center center / cover;
 }
 
@@ -602,24 +602,23 @@ footer img {
 }
 
 .content-interna header.octubre {
-  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+  background: var(--four-color) url("./assets/img/Viajes_en_el_tiempo-01.png")
     no-repeat center center / cover;
 }
 
 .content-interna header.noviembre {
-  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+  background: var(--four-color) url("./assets/img/Coming_Of_Age-01.png")
     no-repeat center center / cover;
 }
 
 .content-interna header.diciembre {
-  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
+  background: var(--four-color) url("./assets/img/Viajes_en_el_tiempo-01.png")
     no-repeat center center / cover;
 }
 
 .nav-month {
   position: relative;
-  top: 60px;
-
+  top: 30px;
   width: 90%;
   max-width: 1440px;
   margin: 0 auto;
@@ -749,14 +748,25 @@ footer img {
 }
 
 .ci-title {
-  margin-top: -5vh;
+  margin-top: -25vh;
   position: relative;
 }
 
 .ci-title h3 {
   text-transform: capitalize;
   margin: 0;
+  background: #0000007a;
+  display: inline;
+  padding: 2px 10px;
 }
+
+.ci-title h2 {
+  background: #0000007a;
+  display: inline-block;
+  padding: 7px 10px 2px;
+  margin: 14px 0 60px 0;
+}
+
 .ci-title p {
   width: 70%;
 }

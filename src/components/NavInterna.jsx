@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { useParams, Link, Outlet } from "react-router-dom";
-import { CSSTransition, TransitionGroup } from "react-transition-group";
 
 const NavInterna = () => {
   const [isSticky, setIsSticky] = useState(false);
@@ -9,7 +8,7 @@ const NavInterna = () => {
   useEffect(() => {
     const handleScroll = () => {
       const offset = window.scrollY;
-      setIsSticky(offset > 60);
+      setIsSticky(offset > 30);
     };
 
     window.addEventListener("scroll", handleScroll);
@@ -135,16 +134,7 @@ const NavInterna = () => {
         </Link>
       </nav>
 
-      <TransitionGroup>
-        <CSSTransition
-          key={month}
-          timeout={500}
-          classNames="fade"
-          unmountOnExit
-        >
-          <Outlet />
-        </CSSTransition>
-      </TransitionGroup>
+      <Outlet />
     </>
   );
 };
