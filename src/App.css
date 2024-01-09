@@ -508,12 +508,12 @@ footer img {
 /* precarga de imagenes */
 
 .preload-backgrounds {
-  display: none; /* Oculta el contenedor de precarga */
+  display: block; /* Oculta el contenedor de precarga */
 }
 
 .preload-backgrounds div {
-  width: 1px;
-  height: 1px;
+  width: 0vw;
+  height: 0vh;
   background-size: cover;
   background-repeat: no-repeat;
 }
