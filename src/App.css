@@ -847,6 +847,11 @@ footer img {
     flex-direction: column;
     align-items: flex-start;
   }
+
+  .nav-month.sticky-nav {
+    position: fixed;
+  }
+
   .nav-month {
     position: fixed;
     top: 0;
@@ -863,6 +868,7 @@ footer img {
 
   .content-interna header {
     top: 0;
+    height: calc(100vh - 60px);
   }
 
   .movies-container {
@@ -893,7 +899,7 @@ footer img {
     padding: 20px;
     margin-bottom: 40px;
     position: absolute;
-    bottom: -100vh;
+    bottom: -88vh;
     left: 0px;
     text-align: left;
   }
