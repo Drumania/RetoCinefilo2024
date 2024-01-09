@@ -32,19 +32,22 @@ const Home = () => {
           <ul className="movie-grid">{monthThumbs}</ul>
         </main>
         <Footer />
-        <div className="preload-image">
-          <link rel="preload" as="image" href="/1.gif" />
-          <link rel="preload" as="image" href="/2.gif" />
-          <link rel="preload" as="image" href="/3.gif" />
-          <link rel="preload" as="image" href="/4.gif" />
-          <link rel="preload" as="image" href="/5.gif" />
-          <link rel="preload" as="image" href="/6.gif" />
-          <link rel="preload" as="image" href="/7.gif" />
-          <link rel="preload" as="image" href="/8.gif" />
-          <link rel="preload" as="image" href="/9.gif" />
-          <link rel="preload" as="image" href="/10.gif" />
-          <link rel="preload" as="image" href="/11.gif" />
-          <link rel="preload" as="image" href="/12.gif" />
+
+        <div className="preload-backgrounds">
+          <div className="bg1"></div>
+          <div className="bg2"></div>
+          <div className="bg3"></div>
+          <div className="bg4"></div>
+
+          <div className="bg5"></div>
+          <div className="bg6"></div>
+          <div className="bg7"></div>
+          <div className="bg8"></div>
+
+          <div className="bg9"></div>
+          <div className="bg10"></div>
+          <div className="bg11"></div>
+          <div className="bg12"></div>
         </div>
       </div>
     </>

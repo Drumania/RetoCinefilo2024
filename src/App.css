@@ -507,23 +507,56 @@ footer img {
 
 /* precarga de imagenes */
 
-.preload-image::after {
-  content: "";
-  display: none;
-  background: url("./assets/img/1.gif") center center / cover,
-    url("./assets/img/2.gif") center center / cover,
-    url("./assets/img/3.gif") center center / cover,
-    url("./assets/img/4.gif") center center / cover,
-    url("./assets/img/5.gif") center center / cover,
-    url("./assets/img/6.gif") center center / cover,
-    url("./assets/img/7.gif") center center / cover,
-    url("./assets/img/8.gif") center center / cover,
-    url("./assets/img/9.gif") center center / cover,
-    url("./assets/img/10.gif") center center / cover,
-    url("./assets/img/11.gif") center center / cover,
-    url("./assets/img/12.gif") center center / cover;
+.preload-backgrounds {
+  display: none; /* Oculta el contenedor de precarga */
 }
 
+.preload-backgrounds div {
+  width: 1px;
+  height: 1px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* Precargar imágenes de fondo */
+.preload-backgrounds .bg1 {
+  background-image: url("./assets/img/1.gif");
+}
+.preload-backgrounds .bg2 {
+  background-image: url("./assets/img/2.gif");
+}
+.preload-backgrounds .bg3 {
+  background-image: url("./assets/img/3.gif");
+}
+.preload-backgrounds .bg4 {
+  background-image: url("./assets/img/4.gif");
+}
+
+.preload-backgrounds .bg5 {
+  background-image: url("./assets/img/5.gif");
+}
+.preload-backgrounds .bg6 {
+  background-image: url("./assets/img/6.gif");
+}
+.preload-backgrounds .bg7 {
+  background-image: url("./assets/img/7.gif");
+}
+.preload-backgrounds .bg8 {
+  background-image: url("./assets/img/8.gif");
+}
+
+.preload-backgrounds .bg9 {
+  background-image: url("./assets/img/9.gif");
+}
+.preload-backgrounds .bg10 {
+  background-image: url("./assets/img/10.gif");
+}
+.preload-backgrounds .bg11 {
+  background-image: url("./assets/img/11.gif");
+}
+.preload-backgrounds .bg12 {
+  background-image: url("./assets/img/12.gif");
+}
 /* interna */
 
 .content-interna {
