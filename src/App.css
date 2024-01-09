@@ -29,6 +29,7 @@ html {
   box-sizing: border-box;
   font-size: var(--font-size);
   font-family: var(--font-family);
+  overflow-x: hidden;
 }
 
 *,
@@ -37,6 +38,7 @@ html {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
 }
 
 body,
@@ -56,6 +58,12 @@ ul {
 img {
   max-width: 100%;
   height: auto;
+}
+
+/* Para deshabilitar el resaltado en navegadores basados en Blink (como Chrome) */
+a,
+img {
+  -webkit-tap-highlight-color: transparent;
 }
 
 /* Structure */
@@ -137,26 +145,6 @@ h2 {
   font-size: 1rem;
   line-height: 100%;
 }
-
-/* Grid responsive  */
-/* ul.movie-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  border-top: 1px solid var(--line-color);
-}
-
-ul.movie-grid > li {
-  background: transparent;
-  border: 1px solid var(--line-color);
-  padding: 20px 0 30px;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  text-transform: uppercase;
-  border-collapse: collapse;
-} */
 
 ul.movie-grid {
   display: grid;
@@ -320,7 +308,7 @@ ul.movie-grid > li:nth-child(12) .img-month {
   }
 }
 
-@media screen and (max-width: 767px) and (min-width: 480px) {
+@media screen and (max-width: 767px) {
   /* 2 elementos por fila */
   ul.movie-grid {
     grid-template-columns: repeat(2, 1fr);
@@ -336,8 +324,8 @@ ul.movie-grid > li:nth-child(12) .img-month {
   }
 }
 
-@media screen and (max-width: 479px) {
-  /* 1 elemento por fila */
+/* @media screen and (max-width: 479px) {
+  /* 1 elemento por fila 
   ul.movie-grid {
     grid-template-columns: 1fr;
   }
@@ -349,7 +337,7 @@ ul.movie-grid > li:nth-child(12) .img-month {
   ul.movie-grid > li:nth-child(12) {
     border-bottom: none !important;
   }
-}
+} */
 
 footer {
   text-align: center;
