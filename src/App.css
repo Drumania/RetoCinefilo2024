@@ -14,7 +14,7 @@ https://www.cssmatic.com/box-shadow
   --tre-color: #fe9955;
   --four-color: #f3eec8;
   --text-color: #fdfdfd;
-  --bl-color: #000;
+  --bl-color: #212121;
   --wh-color: #f3eec8;
   --line-color: #dfe0d8;
   --font-size: 16px;
@@ -748,34 +748,45 @@ footer img {
 }
 
 .ci-title {
-  margin-top: -25vh;
+  margin-top: -269px;
   position: relative;
 }
 
-.ci-title h3 {
-  text-transform: capitalize;
-  margin: 0;
-  background: #0000007a;
-  display: inline;
-  padding: 2px 10px;
+.ci-title .wrap-titles {
+  background-color: var(--bl-color);
+  display: inline-block;
+  padding: 20px;
+  margin-bottom: 40px;
 }
 
-.ci-title h2 {
-  background: #0000007a;
-  display: inline-block;
-  padding: 7px 10px 2px;
-  margin: 14px 0 60px 0;
+.ci-title .wrap-titles h3 {
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+  color: var(--first-color);
+}
+
+.ci-title .wrap-titles h2 {
+  padding: 7px 0 2px;
+  font-weight: lighter;
+  margin: 0;
+  font-weight: 300;
+  font-size: 3.5rem;
 }
 
 .ci-title p {
   width: 70%;
 }
 
+.wrap-description {
+  padding-top: 50px;
+}
+
 .wrap-flex {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: space-between;
   gap: var(--big-gap-number);
 }
 
@@ -851,7 +862,7 @@ footer img {
 
   .nav-month a {
     width: calc(100% / 6);
-    background-size: 60%;
+    background-size: 30px;
     height: 40px;
   }
 
@@ -874,11 +885,19 @@ footer img {
   }
 
   .ci-title {
-    margin-top: -9vh;
+    margin-top: -300px;
   }
 
-  footer {
+  .ci-title .wrap-titles h2 footer {
     padding-bottom: 130px;
+  }
+
+  .ci-title .wrap-titles h2 {
+    font-size: 2rem;
+  }
+
+  .ci-title .wrap-titles h3 {
+    font-size: 1rem;
   }
 }
 

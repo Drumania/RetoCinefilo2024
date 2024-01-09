@@ -41,12 +41,17 @@ const Month = () => {
         <header className={month}>&nbsp;</header>
         <section className="ci-title">
           <div className="wrap-content">
-            <h3>{month}</h3>
-            <br />
-            <h2>{title}</h2>
-            <p>{description}</p>
+            <div className="wrap-titles">
+              <h3>{month}</h3>
+
+              <h2>{title}</h2>
+            </div>
           </div>
         </section>
+
+        <div className="wrap-content wrap-description">
+          <p>{description}</p>
+        </div>
 
         <section className="bl-bk">
           <div className="wrap-content">
