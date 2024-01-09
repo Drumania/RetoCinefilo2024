@@ -546,6 +546,7 @@ footer img {
   position: relative;
   top: -60px;
   height: 100vh;
+  padding: 0;
 }
 
 .content-interna header.enero {
