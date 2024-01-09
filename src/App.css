@@ -740,7 +740,6 @@ footer img {
 }
 
 .ci-title {
-  margin-top: -269px;
   position: relative;
 }
 
@@ -749,6 +748,10 @@ footer img {
   display: inline-block;
   padding: 20px;
   margin-bottom: 40px;
+  position: absolute;
+  bottom: -100vh;
+  left: 0;
+  text-align: left;
 }
 
 .ci-title .wrap-titles h3 {
@@ -858,6 +861,10 @@ footer img {
     height: 40px;
   }
 
+  .content-interna header {
+    top: 0;
+  }
+
   .movies-container {
     display: flex;
     flex-direction: column;
@@ -880,8 +887,15 @@ footer img {
     transform: scale(1.1);
   }
 
-  .ci-title {
-    margin-top: -300px;
+  .ci-title .wrap-titles {
+    background-color: var(--bl-color);
+    display: inline-block;
+    padding: 20px;
+    margin-bottom: 40px;
+    position: absolute;
+    bottom: -100vh;
+    left: 0px;
+    text-align: left;
   }
 
   .ci-title .wrap-titles h2 footer {

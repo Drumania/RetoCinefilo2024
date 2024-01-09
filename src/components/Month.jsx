@@ -38,16 +38,14 @@ const Month = () => {
   return (
     <div>
       <div className="content-interna">
-        <header className={month}>&nbsp;</header>
-        <section className="ci-title">
-          <div className="wrap-content">
+        <header className={month}>
+          <div className="wrap-content ci-title">
             <div className="wrap-titles">
               <h3>{month}</h3>
-
               <h2>{title}</h2>
             </div>
           </div>
-        </section>
+        </header>
 
         <div className="wrap-content wrap-description">
           <p>{description}</p>
