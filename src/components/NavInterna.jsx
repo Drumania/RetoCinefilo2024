@@ -26,6 +26,33 @@ const NavInterna = () => {
     });
   };
 
+  const months = [
+    "enero",
+    "febrero",
+    "marzo",
+    "abril",
+    "mayo",
+    "junio",
+    "julio",
+    "agosto",
+    "septiembre",
+    "octubre",
+    "noviembre",
+    "diciembre",
+  ];
+
+  const monthLinks = months.map((m) => (
+    <Link
+      key={m}
+      to={`/${m}`}
+      className={month === m ? "active" : ""}
+      title={m.charAt(0).toUpperCase() + m.slice(1)}
+      onClick={handleLinkClick}
+    >
+      &nbsp;
+    </Link>
+  ));
+
   return (
     <>
       <nav
@@ -33,107 +60,8 @@ const NavInterna = () => {
           isSticky ? "nav-month sticky-nav" : "nav-month"
         }`}
       >
-        <Link
-          to="/enero"
-          className={month === "enero" ? "active" : ""}
-          title="Enero"
-          onClick={handleLinkClick}
-        >
-          &nbsp;
-        </Link>
-
-        <Link
-          to="/febrero"
-          className={month === "febrero" ? "active" : ""}
-          title="Febrero"
-          onClick={handleLinkClick}
-        >
-          &nbsp;
-        </Link>
-        <Link
-          to="/marzo"
-          className={month === "marzo" ? "active" : ""}
-          title="Marzo"
-          onClick={handleLinkClick}
-        >
-          &nbsp;
-        </Link>
-        <Link
-          to="/abril"
-          className={month === "abril" ? "active" : ""}
-          title="Abril"
-          onClick={handleLinkClick}
-        >
-          &nbsp;
-        </Link>
-
-        <Link
-          to="/mayo"
-          className={month === "mayo" ? "active" : ""}
-          title="Mayo"
-          onClick={handleLinkClick}
-        >
-          &nbsp;
-        </Link>
-        <Link
-          to="/junio"
-          className={month === "junio" ? "active" : ""}
-          title="Junio"
-          onClick={handleLinkClick}
-        >
-          &nbsp;
-        </Link>
-        <Link
-          to="/julio"
-          className={month === "julio" ? "active" : ""}
-          title="Julio"
-          onClick={handleLinkClick}
-        >
-          &nbsp;
-        </Link>
-        <Link
-          to="/agosto"
-          className={month === "agosto" ? "active" : ""}
-          title="Agosto"
-          onClick={handleLinkClick}
-        >
-          &nbsp;
-        </Link>
-
-        <Link
-          to="/septiembre"
-          className={month === "septiembre" ? "active" : ""}
-          title="Septiembre"
-          onClick={handleLinkClick}
-        >
-          &nbsp;
-        </Link>
-        <Link
-          to="/octubre"
-          className={month === "octubre" ? "active" : ""}
-          title="Octubre"
-          onClick={handleLinkClick}
-        >
-          &nbsp;
-        </Link>
-        <Link
-          to="/noviembre"
-          className={month === "noviembre" ? "active" : ""}
-          title="Noviembre"
-          onClick={handleLinkClick}
-        >
-          &nbsp;
-        </Link>
-        <Link
-          to="/diciembre"
-          className={month === "diciembre" ? "active" : ""}
-          title="Diciembre"
-          onClick={handleLinkClick}
-        >
-          &nbsp;
-        </Link>
+        {monthLinks}
       </nav>
-
       <Outlet />
     </>
   );
