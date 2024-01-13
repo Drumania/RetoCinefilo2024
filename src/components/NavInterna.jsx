@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams, Link, Outlet } from "react-router-dom";
+import Preloads from "./Preloads";
 
 const NavInterna = () => {
   const [isSticky, setIsSticky] = useState(false);
@@ -55,6 +56,7 @@ const NavInterna = () => {
 
   return (
     <>
+      <Preloads />
       <nav
         className={`${month} ${
           isSticky ? "nav-month sticky-nav" : "nav-month"
@@ -62,6 +64,7 @@ const NavInterna = () => {
       >
         {monthLinks}
       </nav>
+
       <Outlet />
     </>
   );
