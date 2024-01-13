@@ -583,63 +583,63 @@ footer img {
 }
 
 .content-interna header.enero {
-  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
-    no-repeat center center / cover;
+  background: var(--sec-color) url("./assets/img/Time travel.jpg") no-repeat
+    center center / cover;
 }
 
 .content-interna header.febrero {
-  background: var(--four-color) url("./assets/img/Viajes_en_el_tiempo-01.png")
-    no-repeat center center / cover;
+  background: var(--four-color) url("./assets/img/love.jpg") no-repeat center
+    center / cover;
 }
 
 .content-interna header.marzo {
-  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
-    no-repeat center center / cover;
+  background: var(--sec-color) url("./assets/img/Oscar.jpg") no-repeat center
+    center / cover;
 }
 
 .content-interna header.abril {
-  background: var(--four-color) url("./assets/img/Viajes_en_el_tiempo-01.png")
-    no-repeat center center / cover;
+  background: var(--four-color) url("./assets/img/Impactante.jpg") no-repeat
+    center center / cover;
 }
 
 .content-interna header.mayo {
-  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
-    no-repeat center center / cover;
+  background: var(--sec-color) url("./assets/img/Clasico.jpg") no-repeat center
+    center / cover;
 }
 
 .content-interna header.junio {
-  background: var(--four-color) url("./assets/img/Viajes_en_el_tiempo-01.png")
-    no-repeat center center / cover;
+  background: var(--four-color) url("./assets/img/Invierno.jpg") no-repeat
+    center center / cover;
 }
 
 .content-interna header.julio {
-  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
-    no-repeat center center / cover;
+  background: var(--sec-color) url("./assets/img/Amistad.jpg") no-repeat center
+    center / cover;
 }
 
 .content-interna header.agosto {
-  background: var(--four-color) url("./assets/img/Viajes_en_el_tiempo-01.png")
-    no-repeat center center / cover;
+  background: var(--four-color) url("./assets/img/Culto.jpg") no-repeat center
+    center / cover;
 }
 
 .content-interna header.septiembre {
-  background: var(--sec-color) url("./assets/img/Coming_Of_Age-01.png")
-    no-repeat center center / cover;
+  background: var(--sec-color) url("./assets/img/Coming of age.jpg") no-repeat
+    center center / cover;
 }
 
 .content-interna header.octubre {
-  background: var(--four-color) url("./assets/img/Viajes_en_el_tiempo-01.png")
-    no-repeat center center / cover;
+  background: var(--four-color) url("./assets/img/Terror.jpg") no-repeat center
+    center / cover;
 }
 
 .content-interna header.noviembre {
-  background: var(--four-color) url("./assets/img/Coming_Of_Age-01.png")
-    no-repeat center center / cover;
+  background: var(--four-color) url("./assets/img/Animada.jpg") no-repeat center
+    center / cover;
 }
 
 .content-interna header.diciembre {
-  background: var(--four-color) url("./assets/img/Viajes_en_el_tiempo-01.png")
-    no-repeat center center / cover;
+  background: var(--four-color) url("./assets/img/Familia.jpg") no-repeat center
+    center / cover;
 }
 
 .nav-month {
