@@ -57,6 +57,7 @@ const NavInterna = () => {
   return (
     <>
       <Preloads />
+      <div id="progress"></div>
       <nav
         className={`${month} ${
           isSticky ? "nav-month sticky-nav" : "nav-month"
