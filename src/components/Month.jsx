@@ -25,10 +25,7 @@ const Month = () => {
     movies,
     tips,
     outsideCinema,
-    netflix,
-    hbo,
-    prime,
-    star,
+    streamingPlatforms,
     smuggling,
     smuggling_legend,
     movie_quote,
@@ -103,52 +100,56 @@ const Month = () => {
                 <img src={logo_netflix} alt="netflix" />
                 <h4>Netflix</h4>
                 <ul className="movies-list">
-                  {netflix.map((item, index) => (
-                    <li key={index}>
-                      {item.title_es}
-                      <br />
-                      {item.title_en}
-                    </li>
-                  ))}
+                  {streamingPlatforms.netflix &&
+                    streamingPlatforms.netflix.map((item, index) => (
+                      <li key={index}>
+                        {item.title_es}
+                        <br />
+                        {item.title_en}
+                      </li>
+                    ))}
                 </ul>
               </div>
               <div>
                 <img src={logo_hbo} alt="hbo" />
                 <h4>HBO max</h4>
                 <ul className="movies-list">
-                  {hbo.map((item, index) => (
-                    <li key={index}>
-                      {item.title_es}
-                      <br />
-                      {item.title_en}
-                    </li>
-                  ))}
+                  {streamingPlatforms.hbo &&
+                    streamingPlatforms.hbo.map((item, index) => (
+                      <li key={index}>
+                        {item.title_es}
+                        <br />
+                        {item.title_en}
+                      </li>
+                    ))}
                 </ul>
               </div>
               <div>
                 <img src={logo_prime} alt="amazon prime video" />
                 <h4>Amazon Prime</h4>
                 <ul className="movies-list">
-                  {prime.map((item, index) => (
-                    <li key={index}>
-                      {item.title_es}
-                      <br />
-                      {item.title_en}
-                    </li>
-                  ))}
+                  {streamingPlatforms.prime &&
+                    streamingPlatforms.prime.map((item, index) => (
+                      <li key={index}>
+                        {item.title_es}
+                        <br />
+                        {item.title_en}
+                      </li>
+                    ))}
                 </ul>
               </div>
               <div>
                 <img src={logo_star} alt="star plus" />
                 <h4>STAR +</h4>
                 <ul className="movies-list">
-                  {star.map((item, index) => (
-                    <li key={index}>
-                      {item.title_es}
-                      <br />
-                      {item.title_en}
-                    </li>
-                  ))}
+                  {streamingPlatforms.star &&
+                    streamingPlatforms.star.map((item, index) => (
+                      <li key={index}>
+                        {item.title_es}
+                        <br />
+                        {item.title_en}
+                      </li>
+                    ))}
                 </ul>
               </div>
             </div>
