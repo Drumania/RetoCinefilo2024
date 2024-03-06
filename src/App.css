@@ -377,6 +377,8 @@ ul.movie-grid > li:nth-child(12) .img-month {
   }
 } */
 
+/* movie poster */
+
 footer {
   text-align: center;
   padding: 40px 20px;
@@ -879,6 +881,13 @@ footer img {
 .plataformas img {
   width: 200px;
   height: auto;
+}
+
+.movies-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
 }
 
 .movies-list li {

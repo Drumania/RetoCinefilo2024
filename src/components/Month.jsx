@@ -9,6 +9,7 @@ import logo_star from "../assets/img/logo_star.png";
 
 import Footer from "./Footer";
 import BtnBack from "./btnBack";
+import MoviePoster from "./MoviePoster";
 
 const Month = () => {
   // Utiliza el hook useParams para acceder a los parámetros de la URL
@@ -53,10 +54,12 @@ const Month = () => {
             <h3>PELÍCULAS</h3>
             <ul className="movies-list">
               {movies.map((item, index) => (
-                <li key={index}>
-                  {item.title_es}
-                  <br />
-                  {item.title_en}
+                <li>
+                  <MoviePoster
+                    key={index}
+                    title_es={item.title_es}
+                    title_en={item.title_en}
+                  />
                 </li>
               ))}
             </ul>
