@@ -378,7 +378,45 @@ ul.movie-grid > li:nth-child(12) .img-month {
 } */
 
 /* movie poster */
+.movie-poster {
+  background-color: var(--bl-color);
+  border-radius: 20px;
+  overflow: hidden;
+  max-width: 300px;
+}
 
+.movie-poster img {
+  width: 100%;
+  object-fit: 16 / 9;
+}
+
+.movie-poster div {
+  padding: 10px;
+}
+
+.movie-poster div h1 {
+  font-size: 2rem;
+}
+
+.movie-poster div h1 sub {
+  color: var(--sec-color);
+  font-size: 1rem;
+  letter-spacing: 0px;
+  line-height: 100%;
+}
+
+.movie-poster div .mp-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.movie-poster div p {
+  width: 100%;
+}
+
+/* footer */
 footer {
   text-align: center;
   padding: 40px 20px;
@@ -886,8 +924,9 @@ footer img {
 .movies-list {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: flex-start;
   justify-content: flex-start;
+  gap: var(--gap-number);
 }
 
 .movies-list li {
@@ -995,6 +1034,13 @@ footer img {
 
   .ci-title .wrap-titles h3 {
     font-size: 1rem;
+  }
+
+  .movies-list {
+    flex-direction: column;
+  }
+  .movie-poster {
+    max-width: 100%;
   }
 }
 
