@@ -5,39 +5,38 @@
     "movies": [
       {
         "title_es": "Volver al Futuro",
-        "title_en": "(Back to the Future)",
+        "title_en": "Back to the Future",
         "director": "Robert Zemeckis",
-        "description": "Marty McFly viaja accidentalmente al pasado con la ayuda del Doc Brown y se enfrenta a desafíos para asegurar su futuro."
+        "description": "Marty McFly viaja accidentalmente al pasado con la ayuda del Doc Brown y se enfrenta a desafíos para asegurar su futuro.",
+        "picture": "Volver al Futuro.jpeg"
       },
       {
         "title_es": "El Efecto Mariposa",
-        "title_en": "(The Butterfly Effect)",
+        "title_en": "The Butterfly Effect",
         "director": "Eric Bress, J. Mackye Gruber",
-        "description": "Un hombre descubre que puede viajar en el tiempo y cambiar su pasado, pero cada cambio tiene consecuencias imprevistas."
+        "description": "Un hombre descubre que puede viajar en el tiempo y cambiar su pasado, pero cada cambio tiene consecuencias imprevistas.",
+        "picture": "El Efecto Mariposa.jpg"
       },
       {
         "title_es": "Donnie Darko",
-        "title_en": "(Donnie Darko)",
+        "title_en": "Donnie Darko",
         "director": "Richard Kelly",
-        "description": "Donnie comienza a experimentar eventos extraños y recibe visitas de un conejo gigante que lo guía en un viaje a través del tiempo y la realidad."
+        "description": "Donnie comienza a experimentar eventos extraños y recibe visitas de un conejo gigante que lo guía en un viaje a través del tiempo y la realidad.",
+        "picture": "Donnie Darko.jpg"
       },
       {
         "title_es": "Looper",
-        "title_en": "(Looper)",
+        "title_en": "Looper",
         "director": "Rian Johnson",
-        "description": "En un futuro donde se utiliza la tecnología para enviar criminales al pasado, un asesino a sueldo llamado looper se enfrenta a dilemas morales."
+        "description": "En un futuro donde se utiliza la tecnología para enviar criminales al pasado, un asesino a sueldo llamado looper se enfrenta a dilemas morales.",
+        "picture": "Looper.jpg"
       },
       {
         "title_es": "El Juego de Gerald",
-        "title_en": "(Gerald's Game)",
+        "title_en": "Gerald's Game",
         "director": "Mike Flanagan",
-        "description": "Después de que su esposo muere inesperadamente durante un juego sexual, una mujer se enfrenta a visiones aterradoras y desconcertantes."
-      },
-      {
-        "title_es": "Predestinado",
-        "title_en": "(Predestination)",
-        "director": "Michael Spierig, Peter Spierig",
-        "description": "Un agente temporal realiza misiones para prevenir crímenes antes de que ocurran, pero su última misión implica un enigma personal."
+        "description": "Después de que su esposo muere inesperadamente durante un juego sexual, una mujer se enfrenta a visiones aterradoras y desconcertantes.",
+        "picture": "El Juego de Gerald.jpg"
       }
     ],
     "tips": [
@@ -79,25 +78,25 @@
     ],
     "streamingPlatforms": {
       "netflix": [
-        { "title_es": "Volver al Futuro", "title_en": "(Back to the Future)" },
+        { "title_es": "Volver al Futuro", "title_en": "Back to the Future" },
         {
           "title_es": "El Efecto Mariposa",
-          "title_en": "(The Butterfly Effect)"
+          "title_en": "The Butterfly Effect"
         }
       ],
-      "hbo": [{ "title_es": "Donnie Darko", "title_en": "(Donnie Darko)" }],
-      "prime": [{ "title_es": "Looper", "title_en": "(Looper)" }]
+      "hbo": [{ "title_es": "Donnie Darko", "title_en": "Donnie Darko" }],
+      "prime": [{ "title_es": "Looper", "title_en": "Looper" }]
     },
     "smuggling": [
-      { "title_es": "Volver al Futuro", "title_en": "(Back to the Future)" },
+      { "title_es": "Volver al Futuro", "title_en": "Back to the Future" },
       {
         "title_es": "El Efecto Mariposa",
-        "title_en": "(The Butterfly Effect)"
+        "title_en": "The Butterfly Effect"
       },
-      { "title_es": "Donnie Darko", "title_en": "(Donnie Darko)" },
-      { "title_es": "Looper", "title_en": "(Looper)" },
-      { "title_es": "El Juego de Gerald", "title_en": "(Gerald's Game)" },
-      { "title_es": "Predestinado", "title_en": "(Predestination)" }
+      { "title_es": "Donnie Darko", "title_en": "Donnie Darko" },
+      { "title_es": "Looper", "title_en": "Looper" },
+      { "title_es": "El Juego de Gerald", "title_en": "Gerald's Game" },
+      { "title_es": "Predestinado", "title_en": "Predestination" }
     ],
     "smuggling_legend": "Prepárate para un viaje a través del tiempo lleno de intriga y sorpresas. Estas películas te llevarán a explorar mundos donde las reglas del tiempo se doblan y retuercen. Mandale nomás a las recomendaciones y prepárate para desentrañar los misterios temporales.",
     "movie_quote": "La vida es como una bicicleta, para mantener el equilibrio, debes seguir adelante.",
@@ -109,39 +108,38 @@
     "movies": [
       {
         "title_es": "Amélie",
-        "title_en": "(Amélie)",
+        "title_en": "Amélie",
         "director": "Jean-Pierre Jeunet",
-        "description": "Amélie, una joven parisina, decide mejorar la vida de las personas que la rodean. En el camino, encuentra un romance encantador y lleno de magia."
+        "description": "Amélie, una joven parisina, decide mejorar la vida de las personas que la rodean. En el camino, encuentra un romance encantador y lleno de magia.",
+        "picture": "amelie.jpg"
       },
       {
         "title_es": "The Shape of Water",
-        "title_en": "(La forma del agua)",
+        "title_en": "La forma del agua",
         "director": "Guillermo del Toro",
-        "description": "En la década de 1960, una mujer muda trabaja en un laboratorio de alta seguridad y desarrolla una conexión única con una criatura acuática."
+        "description": "En la década de 1960, una mujer muda trabaja en un laboratorio de alta seguridad y desarrolla una conexión única con una criatura acuática.",
+        "picture": "shape.jpg"
       },
       {
-        "title_es": "500 Days of Summer",
-        "title_en": "(500 días con ella)",
+        "title_es": "500 días con ella",
+        "title_en": "500 Days of Summer",
         "director": "Marc Webb",
-        "description": "Esta película desafía la estructura temporal convencional para contar la historia no lineal de la relación entre Tom y Summer."
+        "description": "Esta película desafía la estructura temporal convencional para contar la historia no lineal de la relación entre Tom y Summer.",
+        "picture": "500 días con ella.jpg"
       },
       {
-        "title_es": "Before Sunrise",
-        "title_en": "(Antes del amanecer)",
+        "title_es": "Antes del amanecer",
+        "title_en": "Before Sunrise",
         "director": "Richard Linklater",
-        "description": "Dos desconocidos se encuentran en un tren en Europa y deciden pasar una noche juntos en Viena, explorando la ciudad y conectándose de manera profunda."
+        "description": "Dos desconocidos se encuentran en un tren en Europa y deciden pasar una noche juntos en Viena, explorando la ciudad y conectándose de manera profunda.",
+        "picture": "Antes del amanecer.jpg"
       },
       {
-        "title_es": "The Lobster",
-        "title_en": "(Langosta)",
+        "title_es": "Langosta",
+        "title_en": "The Lobster",
         "director": "Yorgos Lanthimos",
-        "description": "En un futuro distópico, los solteros tienen 45 días para encontrar pareja o ser transformados en un animal de su elección. Un enfoque satírico del amor y las relaciones."
-      },
-      {
-        "title_es": "Eternal Sunshine of the Spotless Mind",
-        "title_en": "(Eterno resplandor de una mente sin recuerdos)",
-        "director": "Michel Gondry",
-        "description": "Joel y Clementine, después de una ruptura, eligen borrar los recuerdos uno del otro. Sin embargo, descubren que el amor verdadero es imposible de olvidar."
+        "description": "En un futuro distópico, los solteros tienen 45 días para encontrar pareja o ser transformados en un animal de su elección. Un enfoque satírico del amor y las relaciones.",
+        "picture": "Langosta.jpg"
       }
     ],
     "tips": [
@@ -178,55 +176,72 @@
     ],
     "streamingPlatforms": {
       "netflix": [
-        { "title_es": "Amélie", "title_en": "(Amélie)" },
-        { "title_es": "The Lobster", "title_en": "(Langosta)" }
+        { "title_es": "Amélie", "title_en": "Amélie" },
+        { "title_es": "The Lobster", "title_en": "Langosta" }
       ],
       "hbo": [
-        { "title_es": "Before Sunrise", "title_en": "(Antes del amanecer)" }
+        { "title_es": "Before Sunrise", "title_en": "Antes del amanecer" }
       ],
       "prime": [
         {
           "title_es": "Eternal Sunshine of the Spotless Mind",
-          "title_en": "(Eterno resplandor de una mente sin recuerdos)"
+          "title_en": "Eterno resplandor de una mente sin recuerdos"
         }
       ]
     },
     "smuggling": [
-      { "title_es": "Amélie", "title_en": "(Amélie)" },
-      { "title_es": "The Shape of Water", "title_en": "(La forma del agua)" },
-      { "title_es": "500 Days of Summer", "title_en": "(500 días con ella)" },
-      { "title_es": "Before Sunrise", "title_en": "(Antes del amanecer)" },
-      { "title_es": "The Lobster", "title_en": "(Langosta)" },
+      { "title_es": "Amélie", "title_en": "Amélie" },
+      { "title_es": "La forma del agua", "title_en": "The Shape of Water" },
+      { "title_es": "500 Days of Summer", "title_en": "500 días con ella" },
+      { "title_es": "Before Sunrise", "title_en": "Antes del amanecer" },
+      { "title_es": "The Lobster", "title_en": "Langosta" },
       {
         "title_es": "Eternal Sunshine of the Spotless Mind",
-        "title_en": "(Eterno resplandor de una mente sin recuerdos)"
+        "title_en": "Eterno resplandor de una mente sin recuerdos"
       }
     ],
     "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
     "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
-    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+    "movie_name": "La Sociedad de los Poetas Muertos (1989"
   },
   "marzo": {
     "title": "Ganadora al Oscar Mejor Película",
     "description": "Marzo nos lleva por un recorrido a través de las películas que se alzaron con el codiciado premio a la Mejor Película en los Oscar. Estas obras maestras cinematográficas no solo han sido reconocidas por su impacto cultural, sino que también han dejado una huella imborrable en la historia del cine. Prepárate para disfrutar de historias cautivadoras y actuaciones excepcionales que han conquistado los corazones de la Academia.",
     "movies": [
       {
-        "title_es": "The Godfather",
-        "title_en": "(El Padrino)",
+        "title_es": "El Padrino",
+        "title_en": "The Godfather",
         "director": "Francis Ford Coppola",
-        "description": "La saga épica de la familia Corleone, líderes de la mafia en Nueva York, explora el poder, la lealtad y las consecuencias del crimen organizado."
+        "description": "La saga épica de la familia Corleone, líderes de la mafia en Nueva York, explora el poder, la lealtad y las consecuencias del crimen organizado.",
+        "picture": "El Padrino.jpg"
       },
       {
         "title_es": "Titanic",
-        "title_en": "(Titanic)",
+        "title_en": "Titanic",
         "director": "James Cameron",
-        "description": "Un romance épico que florece a bordo del famoso Titanic, pero que enfrenta un destino trágico. La película fusiona romance, tragedia y espectáculo visual inolvidable."
+        "description": "Un romance épico que florece a bordo del famoso Titanic, pero que enfrenta un destino trágico. La película fusiona romance, tragedia y espectáculo visual inolvidable.",
+        "picture": "Titanic.jpg"
       },
       {
-        "title_es": "The Shape of Water",
-        "title_en": "(La Forma del Agua)",
+        "title_es": "Birdman",
+        "title_en": "Birdman",
         "director": "Guillermo del Toro",
-        "description": "En la Guerra Fría, una mujer de limpieza en un laboratorio de alta seguridad descubre un experimento clasificado. Esta historia de amor y fantasía ganó el corazón de la audiencia y la Academia."
+        "description": "En la Guerra Fría, una mujer de limpieza en un laboratorio de alta seguridad descubre un experimento clasificado. Esta historia de amor y fantasía ganó el corazón de la audiencia y la Academia.",
+        "picture": "Birdman.jpg"
+      },
+      {
+        "title_es": "Green Book",
+        "title_en": "Green Book",
+        "director": "Guillermo del Toro",
+        "description": "En la Guerra Fría, una mujer de limpieza en un laboratorio de alta seguridad descubre un experimento clasificado. Esta historia de amor y fantasía ganó el corazón de la audiencia y la Academia.",
+        "picture": "Green Book.jpg"
+      },
+      {
+        "title_es": "Slumdog Millionaire",
+        "title_en": "Slumdog Millionaire",
+        "director": "Guillermo del Toro",
+        "description": "En la Guerra Fría, una mujer de limpieza en un laboratorio de alta seguridad descubre un experimento clasificado. Esta historia de amor y fantasía ganó el corazón de la audiencia y la Academia.",
+        "picture": "Slumdog Millionaire.jpg"
       }
     ],
     "tips": [
@@ -266,89 +281,106 @@
       "netflix": [
         {
           "title_es": "The Godfather",
-          "title_en": "(El Padrino)"
+          "title_en": "El Padrino"
         },
         {
           "title_es": "Titanic",
-          "title_en": "(Titanic)"
+          "title_en": "Titanic"
         },
         {
           "title_es": "The Shape of Water",
-          "title_en": "(La Forma del Agua)"
+          "title_en": "La Forma del Agua"
         }
       ],
       "hbo": [
         {
           "title_es": "Schindler's List",
-          "title_en": "(La Lista de Schindler)"
+          "title_en": "La Lista de Schindler"
         },
         {
           "title_es": "The Godfather",
-          "title_en": "(El Padrino)"
+          "title_en": "El Padrino"
         },
         {
           "title_es": "Titanic",
-          "title_en": "(Titanic)"
+          "title_en": "Titanic"
         }
       ],
       "prime": [
         {
           "title_es": "The Shape of Water",
-          "title_en": "(La Forma del Agua)"
+          "title_en": "La Forma del Agua"
         },
         {
           "title_es": "Schindler's List",
-          "title_en": "(La Lista de Schindler)"
+          "title_en": "La Lista de Schindler"
         },
         {
           "title_es": "The Godfather",
-          "title_en": "(El Padrino)"
+          "title_en": "El Padrino"
         }
       ]
     },
     "smuggling": [
       {
         "title_es": "The Godfather",
-        "title_en": "(El Padrino)"
+        "title_en": "El Padrino"
       },
       {
         "title_es": "Titanic",
-        "title_en": "(Titanic)"
+        "title_en": "Titanic"
       },
       {
         "title_es": "The Shape of Water",
-        "title_en": "(La Forma del Agua)"
+        "title_en": "La Forma del Agua"
       },
       {
         "title_es": "Schindler's List",
-        "title_en": "(La Lista de Schindler)"
+        "title_en": "La Lista de Schindler"
       }
     ],
     "smuggling_legend": "Desde el poderoso drama de 'El Padrino' hasta la epopeya romántica de 'Titanic', estas películas ganadoras del Oscar te transportarán a mundos cinematográficos inolvidables. Mandale nomás a las recomendaciones y disfruta del cine de alta calidad.",
     "movie_quote": "Aquí es donde vivimos. En este momento.",
-    "movie_name": "La La Land (2016)"
+    "movie_name": "La La Land (2016"
   },
   "abril": {
     "title": "Visualmente Impactante",
     "description": "Abril nos sumerge en un festín visual con películas que deslumbran a través de su cinematografía excepcional. Desde paisajes deslumbrantes hasta efectos visuales revolucionarios, estas películas son una experiencia estética que deleitará tus sentidos. Prepara tus ojos para un viaje cinematográfico donde la imagen cuenta una historia tan poderosa como el guion mismo.",
     "movies": [
       {
-        "title_es": "Inception",
-        "title_en": "(Origen)",
+        "title_es": "Origen",
+        "title_en": "Inception",
         "director": "Christopher Nolan",
-        "description": "Dom Cobb, un ladrón de la mente, se embarca en un viaje para implantar una idea en el subconsciente de una persona. Las escenas de sueños superpuestos ofrecen un festín visual único."
+        "description": "Dom Cobb, un ladrón de la mente, se embarca en un viaje para implantar una idea en el subconsciente de una persona. Las escenas de sueños superpuestos ofrecen un festín visual único.",
+        "picture": "Inception.jpg"
       },
       {
-        "title_es": "The Grand Budapest Hotel",
-        "title_en": "(El Gran Hotel Budapest)",
+        "title_es": "El Gran Hotel Budapest",
+        "title_en": "The Grand Budapest Hotel",
         "director": "Wes Anderson",
-        "description": "Esta comedia ambientada en un elegante hotel europeo presenta una paleta de colores vibrantes y composiciones simétricas que crean una experiencia visualmente encantadora."
+        "description": "Esta comedia ambientada en un elegante hotel europeo presenta una paleta de colores vibrantes y composiciones simétricas que crean una experiencia visualmente encantadora.",
+        "picture": "El Gran Hotel Budapest.jpg"
       },
       {
         "title_es": "Blade Runner 2049",
-        "title_en": "(Blade Runner 2049)",
+        "title_en": "Blade Runner 2049",
         "director": "Denis Villeneuve",
-        "description": "En un futuro distópico, un 'blade runner' descubre un secreto que podría cambiar la sociedad. La película ofrece una visión impresionante del futuro con sus imágenes impactantes."
+        "description": "En un futuro distópico, un 'blade runner' descubre un secreto que podría cambiar la sociedad. La película ofrece una visión impresionante del futuro con sus imágenes impactantes.",
+        "picture": "Blade Runner 2049.jpg"
+      },
+      {
+        "title_es": "Avatar",
+        "title_en": "Avatar",
+        "director": "James Cameron",
+        "description": "En el exuberante mundo de Pandora, un ex-marine se embarca en una misión para infiltrarse entre los nativos. La película destaca por sus efectos visuales innovadores y su capacidad para sumergir al espectador en un entorno visualmente asombroso.",
+        "picture": "Avatar.jpg"
+      },
+      {
+        "title_es": "Gravity",
+        "title_en": "Gravity",
+        "director": "Alfonso Cuarón",
+        "description": "Dos astronautas quedan a la deriva en el espacio después de un accidente. La película se destaca por su cinematografía impresionante y efectos visuales realistas, brindando una experiencia visualmente impactante en la ingravidez del espacio.",
+        "picture": "Gravity.jpg"
       }
     ],
     "tips": [
@@ -387,85 +419,85 @@
       "netflix": [
         {
           "title_es": "Inception",
-          "title_en": "(Origen)"
+          "title_en": "Origen"
         },
         {
           "title_es": "The Grand Budapest Hotel",
-          "title_en": "(El Gran Hotel Budapest)"
+          "title_en": "El Gran Hotel Budapest"
         },
         {
           "title_es": "Blade Runner 2049",
-          "title_en": "(Blade Runner 2049)"
+          "title_en": "Blade Runner 2049"
         }
       ],
       "hbo": [
         {
           "title_es": "Mad Max: Fury Road",
-          "title_en": "(Mad Max: Furia en el Camino)"
+          "title_en": "Mad Max: Furia en el Camino"
         },
         {
           "title_es": "The Shape of Water",
-          "title_en": "(La Forma del Agua)"
+          "title_en": "La Forma del Agua"
         },
         {
           "title_es": "Inception",
-          "title_en": "(Origen)"
+          "title_en": "Origen"
         }
       ],
       "prime": [
         {
           "title_es": "Blade Runner 2049",
-          "title_en": "(Blade Runner 2049)"
+          "title_en": "Blade Runner 2049"
         },
         {
           "title_es": "The Grand Budapest Hotel",
-          "title_en": "(El Gran Hotel Budapest)"
+          "title_en": "El Gran Hotel Budapest"
         },
         {
           "title_es": "A Clockwork Orange",
-          "title_en": "(La Naranja Mecánica)"
+          "title_en": "La Naranja Mecánica"
         }
       ],
       "star": [
         {
           "title_es": "2001: A Space Odyssey",
-          "title_en": "(2001: Odisea del Espacio)"
+          "title_en": "2001: Odisea del Espacio"
         },
         {
           "title_es": "Blade Runner 2049",
-          "title_en": "(Blade Runner 2049)"
+          "title_en": "Blade Runner 2049"
         },
         {
           "title_es": "The Grand Budapest Hotel",
-          "title_en": "(El Gran Hotel Budapest)"
+          "title_en": "El Gran Hotel Budapest"
         }
       ]
     },
     "smuggling": [
       {
         "title_es": "Blade Runner 2049",
-        "title_en": "(Blade Runner 2049)"
+        "title_en": "Blade Runner 2049"
       },
       {
         "title_es": "Inception",
-        "title_en": "(Origen)"
+        "title_en": "Origen"
       },
       {
         "title_es": "The Grand Budapest Hotel",
-        "title_en": "(El Gran Hotel Budapest)"
+        "title_en": "El Gran Hotel Budapest"
       },
       {
         "title_es": "Mad Max: Fury Road",
-        "title_en": "(Mad Max: Furia en el Camino)"
+        "title_en": "Mad Max: Furia en el Camino"
       },
       {
         "title_es": "A Clockwork Orange",
-        "title_en": "(La Naranja Mecánica)"
+        "title_en": "La Naranja Mecánica"
       }
     ],
     "smuggling_legend": "Desde los sueños laberínticos de 'Inception' hasta el futurismo visual de 'Blade Runner 2049', estas películas te sumergirán en mundos visuales extraordinarios. Mandale nomás a las recomendaciones y prepárate para un festín para tus ojos.",
     "movie_quote": "La realidad puede ser retocada, pero no se puede cambiar.",
-    "movie_name": "Inception (2010)"
+    "movie_name": "Inception (2010"
   },
   "mayo": {
     "title": "Clásico pendiente",
@@ -473,19 +505,19 @@
     "movies": [
       {
         "title_es": "Casablanca",
-        "title_en": "(Casablanca)",
+        "title_en": "Casablanca",
         "director": "Michael Curtiz",
         "description": "En la ocupada Casablanca durante la Segunda Guerra Mundial, el dueño de un club nocturno se ve envuelto en una trama de amor y sacrificio."
       },
       {
         "title_es": "Gone with the Wind",
-        "title_en": "(Lo que el viento se llevó)",
+        "title_en": "Lo que el viento se llevó",
         "director": "Victor Fleming",
         "description": "En el sur de Estados Unidos durante la Guerra Civil, una mujer testaruda lucha por encontrar el amor y la supervivencia."
       },
       {
         "title_es": "The Godfather",
-        "title_en": "(El Padrino)",
+        "title_en": "El Padrino",
         "director": "Francis Ford Coppola",
         "description": "La saga épica de la familia Corleone, líderes de la mafia en Nueva York, explora el poder, la lealtad y las consecuencias del crimen organizado."
       }
@@ -526,85 +558,85 @@
       "netflix": [
         {
           "title_es": "Casablanca",
-          "title_en": "(Casablanca)"
+          "title_en": "Casablanca"
         },
         {
           "title_es": "Gone with the Wind",
-          "title_en": "(Lo que el viento se llevó)"
+          "title_en": "Lo que el viento se llevó"
         },
         {
           "title_es": "The Godfather",
-          "title_en": "(El Padrino)"
+          "title_en": "El Padrino"
         }
       ],
       "hbo": [
         {
           "title_es": "Citizen Kane",
-          "title_en": "(Ciudadano Kane)"
+          "title_en": "Ciudadano Kane"
         },
         {
           "title_es": "Lawrence of Arabia",
-          "title_en": "(Lawrence de Arabia)"
+          "title_en": "Lawrence de Arabia"
         },
         {
           "title_es": "Gone with the Wind",
-          "title_en": "(Lo que el viento se llevó)"
+          "title_en": "Lo que el viento se llevó"
         }
       ],
       "prime": [
         {
           "title_es": "The Wizard of Oz",
-          "title_en": "(El Mago de Oz)"
+          "title_en": "El Mago de Oz"
         },
         {
           "title_es": "Casablanca",
-          "title_en": "(Casablanca)"
+          "title_en": "Casablanca"
         },
         {
           "title_es": "Gone with the Wind",
-          "title_en": "(Lo que el viento se llevó)"
+          "title_en": "Lo que el viento se llevó"
         }
       ],
       "star": [
         {
           "title_es": "The Sound of Music",
-          "title_en": "(La Novicia Rebelde)"
+          "title_en": "La Novicia Rebelde"
         },
         {
           "title_es": "Casablanca",
-          "title_en": "(Casablanca)"
+          "title_en": "Casablanca"
         },
         {
           "title_es": "The Godfather",
-          "title_en": "(El Padrino)"
+          "title_en": "El Padrino"
         }
       ]
     },
     "smuggling": [
       {
         "title_es": "Gone with the Wind",
-        "title_en": "(Lo que el viento se llevó)"
+        "title_en": "Lo que el viento se llevó"
       },
       {
         "title_es": "Casablanca",
-        "title_en": "(Casablanca)"
+        "title_en": "Casablanca"
       },
       {
         "title_es": "The Godfather",
-        "title_en": "(El Padrino)"
+        "title_en": "El Padrino"
       },
       {
         "title_es": "Citizen Kane",
-        "title_en": "(Ciudadano Kane)"
+        "title_en": "Ciudadano Kane"
       },
       {
         "title_es": "The Wizard of Oz",
-        "title_en": "(El Mago de Oz)"
+        "title_en": "El Mago de Oz"
       }
     ],
     "smuggling_legend": "Desde los salones de Casablanca hasta los campos de algodón de 'Gone with the Wind', estos clásicos son tesoros cinematográficos que han resistido la prueba del tiempo. Mandale nomás a las recomendaciones y revive la magia de la pantalla grande.",
     "movie_quote": "La vida pasa muy rápido. Si no te detienes y miras a tu alrededor de vez en cuando, te la puedes perder.",
-    "movie_name": "Ferris Bueller's Day Off (1986)"
+    "movie_name": "Ferris Bueller's Day Off (1986"
   },
   "junio": {
     "title": "Drama Invernal",
@@ -612,19 +644,19 @@
     "movies": [
       {
         "title_es": "Frozen",
-        "title_en": "(Frozen)",
+        "title_en": "Frozen",
         "director": "Chris Buck, Jennifer Lee",
         "description": "Dos hermanas, Elsa y Anna, se embarcan en un viaje para descubrir los secretos de los poderes mágicos de Elsa y salvar a su reino de un invierno eterno."
       },
       {
         "title_es": "The Revenant",
-        "title_en": "(The Revenant)",
+        "title_en": "The Revenant",
         "director": "Alejandro G. Iñárritu",
         "description": "En las heladas tierras salvajes, un cazador lucha por la supervivencia y la venganza después de ser dejado por muerto por su propio equipo."
       },
       {
         "title_es": "Carol",
-        "title_en": "(Carol)",
+        "title_en": "Carol",
         "director": "Todd Haynes",
         "description": "En la Nueva York de los años 50, la relación entre una joven fotógrafa y una mujer mayor se desarrolla durante la temporada navideña, desafiando las normas sociales de la época."
       }
@@ -665,84 +697,84 @@
       "netflix": [
         {
           "title_es": "Frozen",
-          "title_en": "(Frozen)"
+          "title_en": "Frozen"
         },
         {
           "title_es": "The Revenant",
-          "title_en": "(The Revenant)"
+          "title_en": "The Revenant"
         },
         {
           "title_es": "Carol",
-          "title_en": "(Carol)"
+          "title_en": "Carol"
         }
       ],
       "hbo": [
         {
           "title_es": "La Caza",
-          "title_en": "(Jagten)"
+          "title_en": "Jagten"
         },
         {
           "title_es": "Black Swan",
-          "title_en": "(Cisne Negro)"
+          "title_en": "Cisne Negro"
         },
         {
           "title_es": "Manchester by the Sea",
-          "title_en": "(Manchester frente al mar)"
+          "title_en": "Manchester frente al mar"
         }
       ],
       "prime": [
         {
           "title_es": "The Grand Budapest Hotel",
-          "title_en": "(El Gran Hotel Budapest)"
+          "title_en": "El Gran Hotel Budapest"
         },
         {
           "title_es": "The Girl with the Dragon Tattoo",
-          "title_en": "(Millennium: Los hombres que no amaban a las mujeres)"
+          "title_en": "Millennium: Los hombres que no amaban a las mujeres"
         },
         {
           "title_es": "Winter Sleep",
-          "title_en": "(Sueño de Invierno)"
+          "title_en": "Sueño de Invierno"
         }
       ],
       "star": [
         {
           "title_es": "Eternal Sunshine of the Spotless Mind",
-          "title_en": "(¡Olvídate de mí!)"
+          "title_en": "¡Olvídate de mí!"
         },
         {
           "title_es": "The Shining",
-          "title_en": "(El Resplandor)"
+          "title_en": "El Resplandor"
         },
         {
           "title_es": "Dead Poets Society",
-          "title_en": "(La Sociedad de los Poetas Muertos)"
+          "title_en": "La Sociedad de los Poetas Muertos"
         }
       ]
     },
     "smuggling": [
       {
         "title_es": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-        "title_en": "(Las Crónicas de Narnia: El León, la Bruja y el Armario)"
+        "title_en": "Las Crónicas de Narnia: El León, la Bruja y el Armario"
       },
       {
         "title_es": "Let the Right One In",
-        "title_en": "(Déjame entrar)"
+        "title_en": "Déjame entrar"
       },
       {
         "title_es": "Groundhog Day",
-        "title_en": "(El Día de la Marmota)"
+        "title_en": "El Día de la Marmota"
       },
       {
         "title_es": "Frozen",
-        "title_en": "(Frozen)"
+        "title_en": "Frozen"
       },
       {
         "title_es": "The Revenant",
-        "title_en": "(The Revenant)"
+        "title_en": "The Revenant"
       },
       {
         "title_es": "Carol",
-        "title_en": "(Carol)"
+        "title_en": "Carol"
       }
     ],
     "smuggling_legend": "Desde paisajes cubiertos de nieve hasta historias conmovedoras, estas películas te sumergirán en el corazón del invierno. Mandale nomás a las recomendaciones y prepárate para sentir el frío de estas narrativas invernales.",
@@ -755,19 +787,19 @@
     "movies": [
       {
         "title_es": "Cuenta Conmigo",
-        "title_en": "(Stand by Me)",
+        "title_en": "Stand by Me",
         "director": "Rob Reiner",
         "description": "Cuatro amigos emprenden un viaje para encontrar el cuerpo de un niño desaparecido. Un clásico que explora la amistad y la pérdida."
       },
       {
         "title_es": "Superbad",
-        "title_en": "(Superbad)",
+        "title_en": "Superbad",
         "director": "Greg Mottola",
         "description": "Dos amigos embarcan en una odisea para conseguir alcohol para una fiesta, enfrentándose a situaciones cómicas y descubriendo más sobre ellos mismos."
       },
       {
         "title_es": "Toy Story",
-        "title_en": "(Toy Story)",
+        "title_en": "Toy Story",
         "director": "John Lasseter",
         "description": "En el mundo de los juguetes, Woody y Buzz Lightyear aprenden el significado de la amistad mientras enfrentan desafíos inesperados."
       }
@@ -808,92 +840,92 @@
       "netflix": [
         {
           "title_es": "Las ventajas de ser invisible",
-          "title_en": "(The Perks of Being a Wallflower)"
+          "title_en": "The Perks of Being a Wallflower"
         },
         {
           "title_es": "Cuenta Conmigo",
-          "title_en": "(Stand by Me)"
+          "title_en": "Stand by Me"
         },
         {
           "title_es": "Mi Primer Beso",
-          "title_en": "(My First Kiss)"
+          "title_en": "My First Kiss"
         }
       ],
       "hbo": [
         {
           "title_es": "Yo, él y Raquel",
-          "title_en": "(Me & Earl & the Dying Girl)"
+          "title_en": "Me & Earl & the Dying Girl"
         },
         {
           "title_es": "Superbad",
-          "title_en": "(Superbad)"
+          "title_en": "Superbad"
         },
         {
           "title_es": "Toy Story",
-          "title_en": "(Toy Story)"
+          "title_en": "Toy Story"
         }
       ],
       "prime": [
         {
           "title_es": "La Sociedad de los Poetas Muertos",
-          "title_en": "(Dead Poets Society)"
+          "title_en": "Dead Poets Society"
         },
         {
           "title_es": "Juno",
-          "title_en": "(Juno)"
+          "title_en": "Juno"
         },
         {
           "title_es": "Sí, Dios mío, Sí",
-          "title_en": "(Yes, God, Yes)"
+          "title_en": "Yes, God, Yes"
         }
       ],
       "star": [
         {
           "title_es": "Intensamente",
-          "title_en": "(Inside Out)"
+          "title_en": "Inside Out"
         },
         {
           "title_es": "Amigos",
-          "title_en": "(Friends)"
+          "title_en": "Friends"
         },
         {
           "title_es": "La Lista de Schindler",
-          "title_en": "(Schindler's List)"
+          "title_en": "Schindler's List"
         }
       ]
     },
     "smuggling": [
       {
         "title_es": "Forrest Gump",
-        "title_en": "(Forrest Gump)"
+        "title_en": "Forrest Gump"
       },
       {
         "title_es": "E.T. el Extraterrestre",
-        "title_en": "(E.T. the Extra-Terrestrial)"
+        "title_en": "E.T. the Extra-Terrestrial"
       },
       {
         "title_es": "El Rey León",
-        "title_en": "(The Lion King)"
+        "title_en": "The Lion King"
       },
       {
         "title_es": "El Club de los Cinco",
-        "title_en": "(The Breakfast Club)"
+        "title_en": "The Breakfast Club"
       },
       {
         "title_es": "Harry Potter y la Piedra Filosofal",
-        "title_en": "(Harry Potter and the Sorcerer's Stone)"
+        "title_en": "Harry Potter and the Sorcerer's Stone"
       },
       {
         "title_es": "Stand by Me",
-        "title_en": "(Stand by Me)"
+        "title_en": "Stand by Me"
       },
       {
         "title_es": "Superbad",
-        "title_en": "(Superbad)"
+        "title_en": "Superbad"
       },
       {
         "title_es": "Toy Story",
-        "title_en": "(Toy Story)"
+        "title_en": "Toy Story"
       }
     ],
     "smuggling_legend": "Desde risas compartidas hasta lecciones de vida, estas películas celebran la amistad en todas sus formas. Mandale nomás a las recomendaciones y preparate para un mes lleno de emociones compartidas con tus amigos.",
@@ -906,19 +938,19 @@
     "movies": [
       {
         "title_es": "El Gran Lebowski",
-        "title_en": "(The Big Lebowski)",
+        "title_en": "The Big Lebowski",
         "director": "Hermanos Coen",
         "description": "Un relajado hombre es confundido con un millonario y se ve envuelto en una trama de secuestro y engaño. Un clásico de culto lleno de situaciones hilarantes."
       },
       {
         "title_es": "Donnie Darko",
-        "title_en": "(Donnie Darko)",
+        "title_en": "Donnie Darko",
         "director": "Richard Kelly",
         "description": "Donnie, un joven con problemas mentales, comienza a experimentar visiones extrañas y se encuentra con un conejo gigante que le predice el fin del mundo. Una película fascinante y misteriosa."
       },
       {
         "title_es": "La naranja mecánica",
-        "title_en": "A Clockwork Orange",
+        "title_en": " Clockwork Orange",
         "director": "Stanley Kubrick",
         "description": "En un futuro distópico, Alex, un joven amante de la violencia, es sometido a un experimento para eliminar su comportamiento agresivo. Una obra maestra de Kubrick."
       }
@@ -959,85 +991,85 @@
       "netflix": [
         {
           "title_es": "Matrix",
-          "title_en": "(The Matrix)"
+          "title_en": "The Matrix"
         },
         {
           "title_es": "Pulp Fiction",
-          "title_en": "(Pulp Fiction)"
+          "title_en": "Pulp Fiction"
         },
         {
           "title_es": "The Truman Show",
-          "title_en": "(El show de Truman)"
+          "title_en": "El show de Truman"
         }
       ],
       "hbo": [
         {
           "title_es": "Blade Runner",
-          "title_en": "(Blade Runner)"
+          "title_en": "Blade Runner"
         },
         {
           "title_es": "Fight Club",
-          "title_en": "(El club de la pelea)"
+          "title_en": "El club de la pelea"
         },
         {
           "title_es": "The Rocky Horror Picture Show",
-          "title_en": "(El show de terror de Rocky)"
+          "title_en": "El show de terror de Rocky"
         }
       ],
       "prime": [
         {
           "title_es": "Mulholland Drive",
-          "title_en": "(Mulholland Drive)"
+          "title_en": "Mulholland Drive"
         },
         {
           "title_es": "The Shining",
-          "title_en": "(El resplandor)"
+          "title_en": "El resplandor"
         },
         {
           "title_es": "The Big Lebowski",
-          "title_en": "(The Big Lebowski)"
+          "title_en": "The Big Lebowski"
         }
       ],
       "star": [
         {
           "title_es": "A Clockwork Orange",
-          "title_en": "(La naranja mecánica)"
+          "title_en": "La naranja mecánica"
         },
         {
           "title_es": "Donnie Darko",
-          "title_en": "(Donnie Darko)"
+          "title_en": "Donnie Darko"
         },
         {
           "title_es": "Trainspotting",
-          "title_en": "(Trainspotting)"
+          "title_en": "Trainspotting"
         }
       ]
     },
     "smuggling": [
       {
         "title_es": "The Rocky Horror Picture Show",
-        "title_en": "(El show de terror de Rocky)"
+        "title_en": "El show de terror de Rocky"
       },
       {
         "title_es": "Rocky",
-        "title_en": "(Rocky)"
+        "title_en": "Rocky"
       },
       {
         "title_es": "Fight Club",
-        "title_en": "(El club de la pelea)"
+        "title_en": "El club de la pelea"
       },
       {
         "title_es": "Clockwork Orange",
-        "title_en": "(La naranja mecánica)"
+        "title_en": "La naranja mecánica"
       },
       {
         "title_es": "The Big Lebowski",
-        "title_en": "(The Big Lebowski)"
+        "title_en": "The Big Lebowski"
       }
     ],
     "smuggling_legend": "Desde mundos surrealistas hasta giros inesperados, las películas de culto te invitan a un viaje cinematográfico único. Que estas joyas fílmicas te envuelvan y te dejen con ese regusto de algo especial. Mandale nomás a las recomendaciones y preparate para un mes lleno de descubrimientos cinematográficos de culto.",
     "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
-    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+    "movie_name": "La Sociedad de los Poetas Muertos (1989"
   },
   "septiembre": {
     "title": "Coming of Age",
@@ -1045,31 +1077,31 @@
     "movies": [
       {
         "title_es": "The Breakfast Club 1 ",
-        "title_en": "(The Breakfast Club)",
+        "title_en": "The Breakfast Club",
         "director": "John Hughes",
         "description": "Dirigida por John Hughes, sigue a un grupo de estudiantes de secundaria que se encuentran durante un castigo y descubren que tienen más en común de lo que pensaban."
       },
       {
         "title_es": "The Breakfast Club 2 ",
-        "title_en": "(The Breakfast Club)",
+        "title_en": "The Breakfast Club",
         "director": "Cameron Crowe",
         "description": "Un adolescente que viaja con una banda de rock en los años 70 experimenta el mundo del rock and roll y la vida adulta."
       },
       {
         "title_es": "The Breakfast Club 3",
-        "title_en": "(The Breakfast Club)",
+        "title_en": "The Breakfast Club",
         "director": "Marjane Satrapi",
         "description": "La historia de una niña iraní que crece durante la Revolución Islámica. Basada en la novela gráfica autobiográfica de Marjane Satrapi."
       },
       {
         "title_es": "Súper Cool",
-        "title_en": "(Superbad)",
+        "title_en": "Superbad",
         "director": "Olivia Wilde",
         "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
       },
       {
         "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
-        "title_en": "(Are You There God? It’s Me, Margaret)",
+        "title_en": "Are You There God? It’s Me, Margaret",
         "director": "Olivia Wilde",
         "description": "Dos estudiantes de secundaria deciden aprovechar al máximo su última noche antes de graduarse, llevándolos a una serie de locuras y reflexiones sobre la amistad."
       }
@@ -1110,97 +1142,97 @@
       "netflix": [
         {
           "title_es": "Las ventajas de ser invisible",
-          "title_en": "(The Perks of Being a Wallflower)"
+          "title_en": "The Perks of Being a Wallflower"
         },
         {
           "title_es": "Cuenta conmigo",
-          "title_en": "(Stand by Me)"
+          "title_en": "Stand by Me"
         },
         {
           "title_es": "Mi primer beso",
-          "title_en": "(My first Kiss)"
+          "title_en": "My first Kiss"
         }
       ],
       "hbo": [
         {
           "title_es": "Se dice de mí",
-          "title_en": "(Easy A)"
+          "title_en": "Easy A"
         },
         {
           "title_es": "Súper Cool",
-          "title_en": "(Superbad)"
+          "title_en": "Superbad"
         },
         {
           "title_es": "¿Estás ahí, Dios? Soy Yo, Margaret",
-          "title_en": "(Are You There God? It’s Me, Margaret)"
+          "title_en": "Are You There God? It’s Me, Margaret"
         }
       ],
       "prime": [
         {
           "title_es": "Lady Bird",
-          "title_en": "(Lady Bird)"
+          "title_en": "Lady Bird"
         },
         {
           "title_es": "Juno",
-          "title_en": "(Juno)"
+          "title_en": "Juno"
         },
         {
           "title_es": "Sí, Dios mío, sí",
-          "title_en": "(Yes, God, yes)"
+          "title_en": "Yes, God, yes"
         }
       ],
       "star": [
         {
           "title_es": "Yo, él y Raquel",
-          "title_en": "Me & Earl & the Dying Girl)"
+          "title_en": "e & Earl & the Dying Girl"
         },
         {
           "title_es": "Tres son multitud",
-          "title_en": "(Rushmore)"
+          "title_en": "Rushmore"
         },
         {
           "title_es": "La Sociedad de los Poetas Muertos",
-          "title_en": "(Dead Poets Society)"
+          "title_en": "Dead Poets Society"
         }
       ]
     },
     "smuggling": [
       {
         "title_es": "El club de los cinco",
-        "title_en": "(The Breakfast Club)"
+        "title_en": "The Breakfast Club"
       },
       {
         "title_es": "Persépolis",
-        "title_en": "(Persepolis)"
+        "title_en": "Persepolis"
       },
       {
         "title_es": "Casi famosos",
-        "title_en": "(Almost Famous)"
+        "title_en": "Almost Famous"
       },
       {
         "title_es": "Sirenas",
-        "title_en": "(Mermaids)"
+        "title_en": "Mermaids"
       },
       {
         "title_es": "La noche de las nerds",
-        "title_en": "(Booksmart)"
+        "title_en": "Booksmart"
       },
       {
         "title_es": "Momentos De Una Vida",
-        "title_en": "(Boyhood)"
+        "title_en": "Boyhood"
       },
       {
         "title_es": "Un reino bajo la luna ",
-        "title_en": "(Moonrise Kingdom)"
+        "title_en": "Moonrise Kingdom"
       },
       {
         "title_es": "Rebeldes y confundidos",
-        "title_en": "(Dazed And Confused)"
+        "title_en": "Dazed And Confused"
       }
     ],
     "smuggling_legend": "Desde risas contagiosas hasta momentos que te llegan al corazón, estas películas son una invitación a recordar, reflexionar y, sobre todo, disfrutar del curioso trayecto que es crecer. Mandale nomás a las recomendaciones y preparate para completar posibles huequitos argumentales que quedaron atrás.",
     "movie_quote": "Me paro sobre mi escritorio para recordarme a mí mismo que constantemente debemos mirar las cosas de una manera diferente.",
-    "movie_name": "La Sociedad de los Poetas Muertos (1989)"
+    "movie_name": "La Sociedad de los Poetas Muertos (1989"
   },
   "octubre": {
     "title": "Terror Psicológico",
@@ -1208,49 +1240,49 @@
     "movies": [
       {
         "title_es": "El Silencio de los Corderos",
-        "title_en": "(The Silence of the Lambs)",
+        "title_en": "The Silence of the Lambs",
         "director": "Jonathan Demme",
         "description": "La agente del FBI Clarice Starling busca la ayuda del brillante pero demente Dr. Hannibal Lecter para atrapar a un peligroso asesino en serie."
       },
       {
         "title_es": "Cisne Negro",
-        "title_en": "(Black Swan)",
+        "title_en": "Black Swan",
         "director": "Darren Aronofsky",
         "description": "Una bailarina obsesionada con la perfección lucha con su cordura mientras persigue el papel principal en una producción de ballet."
       },
       {
         "title_es": "El Club de la Lucha",
-        "title_en": "(Fight Club)",
+        "title_en": "Fight Club",
         "director": "David Fincher",
         "description": "Un hombre desencantado forma un club secreto donde los hombres pueden liberar su agresión, pero las cosas toman un giro oscuro y surrealista."
       },
       {
         "title_es": "El Orfanato",
-        "title_en": "(The Orphanage)",
+        "title_en": "The Orphanage",
         "director": "J.A. Bayona",
         "description": "Una mujer regresa al orfanato donde creció con la intención de abrir una casa para niños discapacitados, pero descubre secretos aterradores del pasado."
       },
       {
         "title_es": "Réquiem por un Sueño",
-        "title_en": "(Requiem for a Dream)",
+        "title_en": "Requiem for a Dream",
         "director": "Darren Aronofsky",
         "description": "Cuatro personajes ven sus vidas desmoronarse debido a la adicción, llevándolos a oscuros y desesperados caminos."
       },
       {
         "title_es": "El Resplandor",
-        "title_en": "(The Shining)",
+        "title_en": "The Shining",
         "director": "Stanley Kubrick",
         "description": "Un escritor y su familia se mudan a un hotel aislado durante el invierno, pero la soledad y fuerzas sobrenaturales desatan la locura."
       },
       {
         "title_es": "Celda 211",
-        "title_en": "(Cell 211)",
+        "title_en": "Cell 211",
         "director": "Daniel Monzón",
         "description": "Durante un motín en una prisión, un hombre se ve atrapado en una celda y debe asumir una identidad peligrosa para sobrevivir."
       },
       {
         "title_es": "Cisne Negro",
-        "title_en": "(Black Swan)",
+        "title_en": "Black Swan",
         "director": "Darren Aronofsky",
         "description": "Una bailarina obsesionada con la perfección lucha con su cordura mientras persigue el papel principal en una producción de ballet."
       }
@@ -1296,77 +1328,75 @@
       "netflix": [
         {
           "title_es": "El Silencio de los Corderos",
-          "title_en": "(The Silence of the Lambs)"
+          "title_en": "The Silence of the Lambs"
         },
-        { "title_es": "Cisne Negro", "title_en": "(Black Swan)" }
+        { "title_es": "Cisne Negro", "title_en": "Black Swan" }
       ],
-      "hbo": [
-        { "title_es": "El Club de la Lucha", "title_en": "(Fight Club)" }
-      ],
-      "prime": [{ "title_es": "El Orfanato", "title_en": "(The Orphanage)" }]
+      "hbo": [{ "title_es": "El Club de la Lucha", "title_en": "Fight Club" }],
+      "prime": [{ "title_es": "El Orfanato", "title_en": "The Orphanage" }]
     },
     "smuggling": [
       {
         "title_es": "El Silencio de los Corderos",
-        "title_en": "(The Silence of the Lambs)"
+        "title_en": "The Silence of the Lambs"
       },
-      { "title_es": "Cisne Negro", "title_en": "(Black Swan)" },
-      { "title_es": "El Club de la Lucha", "title_en": "(Fight Club)" },
-      { "title_es": "El Orfanato", "title_en": "(The Orphanage)" },
+      { "title_es": "Cisne Negro", "title_en": "Black Swan" },
+      { "title_es": "El Club de la Lucha", "title_en": "Fight Club" },
+      { "title_es": "El Orfanato", "title_en": "The Orphanage" },
       {
         "title_es": "Réquiem por un Sueño",
-        "title_en": "(Requiem for a Dream)"
+        "title_en": "Requiem for a Dream"
       },
-      { "title_es": "El Resplandor", "title_en": "(The Shining)" },
-      { "title_es": "Celda 211", "title_en": "(Cell 211)" }
+      { "title_es": "El Resplandor", "title_en": "The Shining" },
+      { "title_es": "Celda 211", "title_en": "Cell 211" }
     ],
     "smuggling_legend": "Adéntrate en el oscuro y desconcertante mundo del terror psicológico. Estas películas te desafiarán y te sumergirán en la intriga y el horror de la mente humana. ¡Prepárate para una experiencia intensa!",
     "movie_quote": "Lo que es más aterrador que cualquier cosa es lo indefinido.",
-    "movie_name": "El Silencio de los Corderos (1991)"
+    "movie_name": "El Silencio de los Corderos (1991"
   },
   "noviembre": {
-    "title": "Animada (No Disney ni Dreamworks)",
+    "title": "Animada (No Disney ni Dreamworks",
     "description": "Noviembre nos trae la magia de la animación, pero esta vez dejamos a un lado a los clásicos personajes de Disney. Explora mundos animados, personajes encantadores y emocionantes aventuras sin una pizca de magia de Mickey Mouse.",
     "movies": [
       {
         "title_es": "El Ilusionista",
-        "title_en": "(The Illusionist)",
+        "title_en": "The Illusionist",
         "director": "Sylvain Chomet",
         "description": "Un ilusionista envejecido se encuentra con una joven que cambia su vida mientras viaja por Europa realizando actos de magia."
       },
       {
         "title_es": "El Libro de la Vida",
-        "title_en": "(The Book of Life)",
+        "title_en": "The Book of Life",
         "director": "Jorge R. Gutiérrez",
         "description": "Manolo, un joven torero, se embarca en una increíble aventura a través de la Tierra de los Recordados y los Olvidados para ganar el amor de su vida."
       },
       {
         "title_es": "La Fiesta de las Salchichas",
-        "title_en": "(Sausage Party)",
+        "title_en": "Sausage Party",
         "director": "Conrad Vernon, Greg Tiernan",
         "description": "En un supermercado, los alimentos creen que ser comprados es ir al paraíso, pero descubren la cruda realidad detrás de sus expectativas."
       },
       {
         "title_es": "Coraline",
-        "title_en": "(Coraline)",
+        "title_en": "Coraline",
         "director": "Henry Selick",
         "description": "Coraline descubre una puerta secreta en su nueva casa que la lleva a una versión alternativa de su vida, pero las cosas no son tan perfectas como parecen."
       },
       {
         "title_es": "El Niño y el Mundo",
-        "title_en": "(Boy & the World)",
+        "title_en": "Boy & the World",
         "director": "Alê Abreu",
         "description": "Un niño emprende un viaje épico para reunirse con su padre, descubriendo un mundo de maquinaria industrial y la belleza de la naturaleza."
       },
       {
         "title_es": "Anomalisa",
-        "title_en": "(Anomalisa)",
+        "title_en": "Anomalisa",
         "director": "Charlie Kaufman, Duke Johnson",
         "description": "Michael Stone, un motivador y autor, percibe a todos en su vida con la misma voz y rostro hasta que conoce a una única mujer extraordinaria."
       },
       {
         "title_es": "El Ilusionista",
-        "title_en": "(The Illusionist)",
+        "title_en": "The Illusionist",
         "director": "Sylvain Chomet",
         "description": "Un ilusionista envejecido se encuentra con una joven que cambia su vida mientras viaja por Europa realizando actos de magia."
       }
@@ -1414,42 +1444,42 @@
     ],
     "streamingPlatforms": {
       "netflix": [
-        { "title_es": "El Ilusionista", "title_en": "(The Illusionist)" },
-        { "title_es": "El Libro de la Vida", "title_en": "(The Book of Life)" },
+        { "title_es": "El Ilusionista", "title_en": "The Illusionist" },
+        { "title_es": "El Libro de la Vida", "title_en": "The Book of Life" },
         {
           "title_es": "La Fiesta de las Salchichas",
-          "title_en": "(Sausage Party)"
+          "title_en": "Sausage Party"
         }
       ],
       "hbo": [
-        { "title_es": "Coraline", "title_en": "(Coraline)" },
-        { "title_es": "El Niño y el Mundo", "title_en": "(Boy & the World)" },
-        { "title_es": "Anomalisa", "title_en": "(Anomalisa)" }
+        { "title_es": "Coraline", "title_en": "Coraline" },
+        { "title_es": "El Niño y el Mundo", "title_en": "Boy & the World" },
+        { "title_es": "Anomalisa", "title_en": "Anomalisa" }
       ],
       "prime": [
-        { "title_es": "El Ilusionista", "title_en": "(The Illusionist)" },
-        { "title_es": "El Niño y el Mundo", "title_en": "(Boy & the World)" },
-        { "title_es": "Anomalisa", "title_en": "(Anomalisa)" }
+        { "title_es": "El Ilusionista", "title_en": "The Illusionist" },
+        { "title_es": "El Niño y el Mundo", "title_en": "Boy & the World" },
+        { "title_es": "Anomalisa", "title_en": "Anomalisa" }
       ],
       "star": [
-        { "title_es": "Coraline", "title_en": "(Coraline)" },
-        { "title_es": "Anomalisa", "title_en": "(Anomalisa)" },
-        { "title_es": "El Niño y el Mundo", "title_en": "(Boy & the World)" }
+        { "title_es": "Coraline", "title_en": "Coraline" },
+        { "title_es": "Anomalisa", "title_en": "Anomalisa" },
+        { "title_es": "El Niño y el Mundo", "title_en": "Boy & the World" }
       ],
       "smuggling": [
-        { "title_es": "El Ilusionista", "title_en": "(The Illusionist)" },
-        { "title_es": "El Libro de la Vida", "title_en": "(The Book of Life)" },
+        { "title_es": "El Ilusionista", "title_en": "The Illusionist" },
+        { "title_es": "El Libro de la Vida", "title_en": "The Book of Life" },
         {
           "title_es": "La Fiesta de las Salchichas",
-          "title_en": "(Sausage Party)"
+          "title_en": "Sausage Party"
         },
-        { "title_es": "Coraline", "title_en": "(Coraline)" },
-        { "title_es": "El Niño y el Mundo", "title_en": "(Boy & the World)" },
-        { "title_es": "Anomalisa", "title_en": "(Anomalisa)" }
+        { "title_es": "Coraline", "title_en": "Coraline" },
+        { "title_es": "El Niño y el Mundo", "title_en": "Boy & the World" },
+        { "title_es": "Anomalisa", "title_en": "Anomalisa" }
       ],
       "smuggling_legend": "Descubre la diversidad de la animación fuera del mundo Disney. Desde la emotiva historia de 'Coraline' hasta las peculiares aventuras de 'La Fiesta de las Salchichas', estas películas te llevarán a un viaje animado inolvidable.",
       "movie_quote": "La animación ofrece una forma de escapar de la realidad y sumergirse en mundos llenos de imaginación y creatividad.",
-      "movie_name": "Sylvain Chomet (Director de 'El Ilusionista')"
+      "movie_name": "Sylvain Chomet (Director de 'El Ilusionista'"
     }
   },
   "diciembre": {
@@ -1458,43 +1488,43 @@
     "movies": [
       {
         "title_es": "Pequeña Miss Sunshine",
-        "title_en": "(Little Miss Sunshine)",
+        "title_en": "Little Miss Sunshine",
         "director": "Jonathan Dayton, Valerie Faris",
         "description": "Una familia disfuncional se embarca en un viaje por carretera para apoyar a su hija en un concurso de belleza."
       },
       {
         "title_es": "La Vida Es Bella",
-        "title_en": "(Life Is Beautiful)",
+        "title_en": "Life Is Beautiful",
         "director": "Roberto Benigni",
         "description": "Un padre utiliza su imaginación para proteger a su hijo mientras están internados en un campo de concentración durante la Segunda Guerra Mundial."
       },
       {
         "title_es": "Historias Cruzadas",
-        "title_en": "(The Help)",
+        "title_en": "The Help",
         "director": "Tate Taylor",
         "description": "En la década de 1960 en el sur de Estados Unidos, las vidas de varias mujeres se entrelazan mientras rompen barreras sociales y raciales."
       },
       {
         "title_es": "Los Increíbles",
-        "title_en": "(The Incredibles)",
+        "title_en": "The Incredibles",
         "director": "Brad Bird",
         "description": "Una familia de superhéroes retirados se ve obligada a volver a la acción para salvar el mundo."
       },
       {
         "title_es": "Un Gran Dinosaurio",
-        "title_en": "(The Good Dinosaur)",
+        "title_en": "The Good Dinosaur",
         "director": "Peter Sohn",
         "description": "Un dinosaurio llamado Arlo forma un vínculo especial con un niño humano mientras emprende un viaje épico."
       },
       {
         "title_es": "Mi Vecino Totoro",
-        "title_en": "(My Neighbor Totoro)",
+        "title_en": "My Neighbor Totoro",
         "director": "Hayao Miyazaki",
         "description": "Dos hermanas se mudan al campo y descubren criaturas mágicas mientras esperan el regreso de su madre enferma."
       },
       {
         "title_es": "Pequeña Miss Sunshine",
-        "title_en": "(Little Miss Sunshine)",
+        "title_en": "Little Miss Sunshine",
         "director": "Jonathan Dayton, Valerie Faris",
         "description": "Una familia disfuncional se embarca en un viaje por carretera para apoyar a su hija en un concurso de belleza."
       }
@@ -1550,45 +1580,45 @@
     ],
     "streamingPlatforms": {
       "netflix": [
-        { "title_es": "La Vida Es Bella", "title_en": "(Life Is Beautiful)" },
-        { "title_es": "Historias Cruzadas", "title_en": "(The Help)" },
-        { "title_es": "Los Increíbles", "title_en": "(The Incredibles)" }
+        { "title_es": "La Vida Es Bella", "title_en": "Life Is Beautiful" },
+        { "title_es": "Historias Cruzadas", "title_en": "The Help" },
+        { "title_es": "Los Increíbles", "title_en": "The Incredibles" }
       ],
       "hbo": [
         {
           "title_es": "Pequeña Miss Sunshine",
-          "title_en": "(Little Miss Sunshine)"
+          "title_en": "Little Miss Sunshine"
         },
-        { "title_es": "Un Gran Dinosaurio", "title_en": "(The Good Dinosaur)" },
-        { "title_es": "Mi Vecino Totoro", "title_en": "(My Neighbor Totoro)" }
+        { "title_es": "Un Gran Dinosaurio", "title_en": "The Good Dinosaur" },
+        { "title_es": "Mi Vecino Totoro", "title_en": "My Neighbor Totoro" }
       ],
       "prime": [
         {
           "title_es": "Pequeña Miss Sunshine",
-          "title_en": "(Little Miss Sunshine)"
+          "title_en": "Little Miss Sunshine"
         },
-        { "title_es": "Un Gran Dinosaurio", "title_en": "(The Good Dinosaur)" },
-        { "title_es": "Mi Vecino Totoro", "title_en": "(My Neighbor Totoro)" }
+        { "title_es": "Un Gran Dinosaurio", "title_en": "The Good Dinosaur" },
+        { "title_es": "Mi Vecino Totoro", "title_en": "My Neighbor Totoro" }
       ],
       "star": [
-        { "title_es": "La Vida Es Bella", "title_en": "(Life Is Beautiful)" },
-        { "title_es": "Historias Cruzadas", "title_en": "(The Help)" },
-        { "title_es": "Los Increíbles", "title_en": "(The Incredibles)" }
+        { "title_es": "La Vida Es Bella", "title_en": "Life Is Beautiful" },
+        { "title_es": "Historias Cruzadas", "title_en": "The Help" },
+        { "title_es": "Los Increíbles", "title_en": "The Incredibles" }
       ]
     },
     "smuggling": [
       {
         "title_es": "Pequeña Miss Sunshine",
-        "title_en": "(Little Miss Sunshine)"
+        "title_en": "Little Miss Sunshine"
       },
-      { "title_es": "La Vida Es Bella", "title_en": "(Life Is Beautiful)" },
-      { "title_es": "Historias Cruzadas", "title_en": "(The Help)" },
-      { "title_es": "Los Increíbles", "title_en": "(The Incredibles)" },
-      { "title_es": "Un Gran Dinosaurio", "title_en": "(The Good Dinosaur)" },
-      { "title_es": "Mi Vecino Totoro", "title_en": "(My Neighbor Totoro)" }
+      { "title_es": "La Vida Es Bella", "title_en": "Life Is Beautiful" },
+      { "title_es": "Historias Cruzadas", "title_en": "The Help" },
+      { "title_es": "Los Increíbles", "title_en": "The Incredibles" },
+      { "title_es": "Un Gran Dinosaurio", "title_en": "The Good Dinosaur" },
+      { "title_es": "Mi Vecino Totoro", "title_en": "My Neighbor Totoro" }
     ],
     "smuggling_legend": "Estas películas son más que entretenimiento; son una celebración de la diversidad y complejidad de las relaciones familiares. Desde risas hasta lágrimas, cada película ofrece una mirada única a lo que significa ser parte de una familia.",
     "movie_quote": "En la verdadera tragedia de la vida, casi nadie puede ayudar a resolver los problemas. Intentamos, muchas veces; a veces tenemos éxito, a veces no. Pero siempre es el intento lo que cuenta.",
-    "movie_name": "Historias Cruzadas (2011)"
+    "movie_name": "Historias Cruzadas (2011"
   }
 }

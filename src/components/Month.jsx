@@ -52,17 +52,21 @@ const Month = () => {
         <section className="bl-bk">
           <div className="wrap-content">
             <h3>PELÍCULAS</h3>
-            <ul className="movies-list">
+
+            <div className="wrap-movie-poster">
               {movies.map((item, index) => (
-                <li>
+                <>
                   <MoviePoster
                     key={index}
                     title_es={item.title_es}
                     title_en={item.title_en}
+                    director={item.director}
+                    description={item.description}
+                    picture={item.picture}
                   />
-                </li>
+                </>
               ))}
-            </ul>
+            </div>
           </div>
         </section>
 
